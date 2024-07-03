@@ -1,1 +1,1 @@
-https://custom.mystagingserver.site/techversellc/
+https://techversellc.com/
