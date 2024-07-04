@@ -1,0 +1,36 @@
+
+
+
+# # Enable the RewriteEngine
+# RewriteEngine On
+
+# # Remove .html extension from URLs
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}\.php -f
+# RewriteRule ^(.*)$ $1.php [L]
+
+# # Redirect to URLs without .html
+# RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+# RewriteRule ^ %1 [R=301,L]
+
+
+# Enable the RewriteEngine
+RewriteEngine On
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond %{REQUEST_FILENAME} !send_mail.php
+RewriteRule ^(.*)$ $1.php [L]
+
+# Redirect to URLs without .php
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteCond %1 !mail
+RewriteRule ^ %1 [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php81” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

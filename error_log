@@ -1,0 +1,108 @@
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "email" in /home/techversellc/public_html/send_mail.php on line 15
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "phone" in /home/techversellc/public_html/send_mail.php on line 16
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "message" in /home/techversellc/public_html/send_mail.php on line 17
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "firstname" in /home/techversellc/public_html/send_mail.php on line 18
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "lastname" in /home/techversellc/public_html/send_mail.php on line 19
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "ip" in /home/techversellc/public_html/send_mail.php on line 20
+[01-Jul-2024 09:41:05 America/Detroit] PHP Warning:  Undefined array key "budget" in /home/techversellc/public_html/send_mail.php on line 21
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 42
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 43
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 44
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 45
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 46
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 47
+[01-Jul-2024 09:41:05 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/send_mail.php on line 48
+[03-Jul-2024 07:08:08 America/Detroit] PHP Parse error:  Unclosed '{' on line 27 in /home/techversellc/public_html/layout/process.php on line 74
+[03-Jul-2024 07:08:47 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 19
+[03-Jul-2024 07:14:32 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:23:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:26:00 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:27:25 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:28:48 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:29:44 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:30:13 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:30:21 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:31:41 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:33:31 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:34:57 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:56:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 07:56:39 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 08:12:32 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 08:24:28 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 08:40:08 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 08:44:10 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:07:11 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:07:16 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:08:50 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:09:18 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:09:47 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:10:06 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:10:33 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:11:53 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:13:09 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:14:24 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:20:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:21:53 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 09:23:06 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 12:09:07 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:00:08 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:00:15 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:09:41 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:09:45 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:13:45 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:17:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 13:18:56 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 14:20:09 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 16:10:26 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 16:20:31 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 16:34:19 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 17:02:57 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 17:31:09 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:11:29 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:14:34 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:41:12 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:10 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:12 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:12 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:19 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:27 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:42:32 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:47:40 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:48:45 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:48:46 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:48:58 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:57:35 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:58:13 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 19:58:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 20:19:00 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[03-Jul-2024 21:40:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 00:29:34 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 00:37:31 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 00:37:54 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 00:55:29 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 00:59:27 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:01:24 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:03:02 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:07:42 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:12:49 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:12:59 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:13:06 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:13:40 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:14:33 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:14:47 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:14:56 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:15:10 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:15:27 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:16:26 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:17:49 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:18:40 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:19:40 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:20:06 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:21:03 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:21:12 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:21:47 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:23:20 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:23:36 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:23:56 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:24:09 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20
+[04-Jul-2024 01:25:34 America/Detroit] PHP Warning:  Undefined variable $title_description in /home/techversellc/public_html/layout/process.php on line 20

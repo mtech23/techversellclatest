@@ -1,0 +1,59 @@
+[01-Jul-2024 09:09:46 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:09:46 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:09:54 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:09:54 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:09 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:09 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:20 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:20 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:21 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:22 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:22 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:22 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:22 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:22 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:23 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:23 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:37 America/Detroit] PHP Warning:  require(PHPMailer-master/src/Exception.php): Failed to open stream: No such file or directory in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:10:37 America/Detroit] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/techversellc/public_html/backup/mail/send_mail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/techversellc/public_html/backup/mail/send_mail.php on line 7
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "email" in /home/techversellc/public_html/backup/mail/send_mail.php on line 15
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "phone" in /home/techversellc/public_html/backup/mail/send_mail.php on line 16
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "message" in /home/techversellc/public_html/backup/mail/send_mail.php on line 17
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "firstname" in /home/techversellc/public_html/backup/mail/send_mail.php on line 18
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "lastname" in /home/techversellc/public_html/backup/mail/send_mail.php on line 19
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "ip" in /home/techversellc/public_html/backup/mail/send_mail.php on line 20
+[01-Jul-2024 09:21:04 America/Detroit] PHP Warning:  Undefined array key "budget" in /home/techversellc/public_html/backup/mail/send_mail.php on line 21
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 42
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 43
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 44
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 45
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 46
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 47
+[01-Jul-2024 09:21:04 America/Detroit] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/techversellc/public_html/backup/mail/send_mail.php on line 48

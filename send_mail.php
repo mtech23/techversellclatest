@@ -1,75 +1,70 @@
 <?php
-session_start();
-
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-require 'PHPMailer-master/src/Exception.php';
-require 'PHPMailer-master/src/PHPMailer.php';
-require 'PHPMailer-master/src/SMTP.php';
-// include 'connect.php';
+// Load Composer's autoloader
+require 'vendor/autoload.php';
 
+// Create an instance; passing `true` enables exceptions
+$mail = new PHPMailer(true);
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-   
-        $email = $_POST['email'];
-        $phone = $_POST['phone'];
-        $message = $_POST['message'];
-        $first_name = $_POST['firstname'];
-        $last_name = $_POST['lastname'];
-        
-        
-     
-        $mail = new PHPMailer();
-        $mail->IsSMTP();
-        $mail->Mailer = "smtp";
-        $mail->SMTPDebug  = 3;
-        $mail->SMTPAuth   = TRUE;
-        $mail->SMTPSecure = "tls";
-        $mail->Port       = 465;
-        $mail->Host       = "mail.techversellc.com";
-        $mail->Username   = "info@techversellc.com";
-        $mail->Password   = "TjyH.z5R%?DQ";
-        $mail->IsHTML(true);
-        $mail->AddAddress("info@techversellc.com", "Techverse LLC");
-        $mail->SetFrom("info@techversellc.com", "Techverse LLC");
-        $mail->Subject = "Test Mail";
-        $content = "<b>testsdasd.</b>";
-        $mail->MsgHTML($content);
-        $check_valid = true;
-       
-   
-        if($mail->Send())
-        {
-                echo "sent";
-        }
-        else
-        {
-            echo "Error sending email: {$mail->ErrorInfo}";
- 
-        }
-   
-} else {
-    echo "Invalid request method.";
+try {
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $message = $_POST['message'];
+    $first_name = $_POST['firstname'];
+    $last_name = $_POST['lastname'];
+    $ip = $_POST['ip'];
+    $budget = $_POST['budget'];
+    
+    $website_url = $_POST['website_url'];
+
+    
+    // Server settings
+    // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+    $mail->isSMTP();                                            // Send using SMTP
+    $mail->Host       = 'mail.techversellc.com';                // Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
+    $mail->Username   = 'info@techversellc.com';                // SMTP username
+    $mail->Password   = 'TjyH.z5R%?DQ';                         // SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            // Enable implicit TLS encryption
+    $mail->Port       = 465;                                    // TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    // Recipients
+    $mail->setFrom('info@techversellc.com', 'Mailer');
+    $mail->addAddress('info@techversellc.com');                 // Add a recipient
+
+    // Content
+    $mail->isHTML(true);                                        // Set email format to HTML
+    $mail->Subject = 'Techverse Lead';
+    $mail->Body    = '
+        <ul>
+            <li><b>First Name</b>: '. htmlspecialchars($first_name, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Last Name</b>: '. htmlspecialchars($last_name, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Message</b>: '. htmlspecialchars($message, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Email</b>: '. htmlspecialchars($email, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Phone</b>: '. htmlspecialchars($phone, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>IP</b>: '. htmlspecialchars($ip, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Budget</b>: '. htmlspecialchars($budget, ENT_QUOTES, 'UTF-8') .'</li>
+            <li><b>Website URL</b>: '. htmlspecialchars($website_url, ENT_QUOTES, 'UTF-8') .'</li>
+        </ul>';
+
+    $mail->send();
+    $response = [
+        'status' => true,
+        'message' => 'Message has been sent successfully'
+    ];
+} catch (Exception $e) {
+    $response = [
+        'status' => false,
+        'message' => "Message could not be sent. Mailer Error: {$mail->ErrorInfo}"
+    ];
 }
 
-
-// $sql ="SELECT `firstname`,`lastname`,`password` FROM `userinfo` WHERE `email` = '".$email."'";
-// $result = mysqli_query($conn,$sql);
-
-// if(mysqli_num_rows($result) == 1)
-// {
-//     // foreach ($result as $value) {
-//     $password = $value['password'];
-//     $name = $value['firstname']." ".$value['lastname'];
-// }
-
-
-
-
-
-
-// }
-
-
+// Set the response headers and return the JSON response
+header('Content-Type: application/json');
+echo json_encode($response);
 ?>

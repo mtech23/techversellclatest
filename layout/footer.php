@@ -12,28 +12,28 @@
                                  </div>
                              </div>
                              <ul class="icon_list_items footer__links footer_contactUS">
+                                 <!--<li class="icon_list_item footer__link">-->
+                                 <!--    <a href="tel:(866) 123-4567">-->
+                                 <!--        <span class="icon_list_icon">-->
+                                 <!--            <i class="fa-solid fa-phone"></i>-->
+                                 <!--        </span>-->
+                                 <!--        <span class="icon_list_text">For Sales: (866) 123-4567</span>-->
+                                 <!--    </a>-->
+                                 <!--</li>-->
+                                 <!--<li class="icon_list_item footer__link">-->
+                                 <!--    <a href="tel:+1 234-567-890">-->
+                                 <!--        <span class="icon_list_icon">-->
+                                 <!--            <i class="fa-solid fa-phone"></i>-->
+                                 <!--        </span>-->
+                                 <!--        <span class="icon_list_text">For Billing: +1 234-567-890</span>-->
+                                 <!--    </a>-->
+                                 <!--</li>-->
                                  <li class="icon_list_item footer__link">
-                                     <a href="tel:(866) 123-4567">
-                                         <span class="icon_list_icon">
-                                             <i class="fa-solid fa-phone"></i>
-                                         </span>
-                                         <span class="icon_list_text">For Sales: (866) 123-4567</span>
-                                     </a>
-                                 </li>
-                                 <li class="icon_list_item footer__link">
-                                     <a href="tel:+1 234-567-890">
-                                         <span class="icon_list_icon">
-                                             <i class="fa-solid fa-phone"></i>
-                                         </span>
-                                         <span class="icon_list_text">For Billing: +1 234-567-890</span>
-                                     </a>
-                                 </li>
-                                 <li class="icon_list_item footer__link">
-                                     <a href="mailto:info@example.com">
+                                     <a href="mailto:info@techversellc.com">
                                          <span class="icon_list_icon">
                                              <i class="fa-solid fa-envelope"></i>
                                          </span>
-                                         <span class="icon_list_text">info@example.com</span>
+                                         <span class="icon_list_text">info@techversellc.com</span>
                                      </a>
                                  </li>
                                  <li class="icon_list_item footer__link">
@@ -233,6 +233,7 @@
 
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.2/gsap.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.2/MotionPathPlugin.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
  <script src="js/partical.js"></script>
  <script src="js/app.js"></script>
  <script src="js/script.js"></script>
@@ -242,6 +243,9 @@
 
 
  <script>
+ 
+ 
+ 
      //       $(document).ready(function() {
 
      //  $("#navbarDropdown").on("click", function() {
