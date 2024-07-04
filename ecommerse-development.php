@@ -96,8 +96,8 @@
         alt=""
       />
         </div>
-      <div class="techVerse_aboutContent techVerse_aboutContentServices1">
-        <div class="container">
+      <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600">
+        <div class="container-fluid">
           <div class="row">
             
             <div class="col-md-6">
@@ -192,8 +192,8 @@
           alt=""
         />
         </div>
-        <div class="techVerse_aboutContent techVerse_aboutContentServices2">
-          <div class="container">
+        <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
+          <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
                     <div class="sec_title buildStore_sec_title">
@@ -220,7 +220,7 @@
                     <div class="techVerse_about_laptop_img">
                       <img
                         src="images/ecommerce-img-01.png"
-                        class="about-laptopImg"
+                        class="build-store-img"
                         data-aos="fade-right"
                         data-aos-offset="0"
                         data-aos-duration="1000"

@@ -53,7 +53,7 @@
 <?php include('./layout/inner-partners.php') ?>
 
     <!-- About Sec -->
-    <section class="techVerse_about techVerse_aboutServices1 hover-section hoverEffectSec" id="particles-js1">
+    <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
         <div class="icon-container-hover">
           <img
         class="techVerse_about_icon1 animation11"
@@ -83,8 +83,8 @@
         </div>
      
       
-      <div class="techVerse_aboutContent techVerse_aboutContentServices1">
-        <div class="container">
+      <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600">
+        <div class="container-fluid">
           <div class="row">
             
             <div class="col-md-6">
@@ -144,7 +144,7 @@
                   <div class="techVerse_about_laptop_img">
                     <img
                     src="images/about-img1.png"
-                      class="about-laptopImg business-devlopmentImg"
+                      class="about-laptopImg business-devlopmentImg about-page-img1"
                       data-aos="fade-right"
                       data-aos-offset="0"
                       data-aos-duration="1000"
@@ -163,7 +163,7 @@
     <!-- Website -->
     <?php include('./layout/web-solution.php') ?>
 
-    <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
+    <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec column-reverse-991">
         <div class="icon-container-hover">
         <img
           class="techVerse_about_icon1 animation11"
@@ -186,10 +186,10 @@
           alt=""
         />
         </div>
-        <div class="techVerse_aboutContent techVerse_aboutContentServices2 customer_gratification">
-          <div class="container">
+        <div class="techVerse_aboutContent techVerse_aboutContentServices2 customer_gratification width-1600">
+          <div class="container-fluid">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-lg-6">
                 <div class="techVerse_about_content services-abbout2">
                   <div class="sec_title">
                     <h2
@@ -242,12 +242,12 @@
               </div>
               
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-6">
                   <div class="techVerse_about_img">
                     <div class="techVerse_about_laptop_img">
                       <img
                         src="images/about-img2.png"
-                        class="about-laptopImg"
+                        class="about-laptopImg about-page-img2"
                         data-aos="fade-right"
                         data-aos-offset="0"
                         data-aos-duration="1000"

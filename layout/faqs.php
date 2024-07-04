@@ -1,6 +1,7 @@
 <section class="techVerse_faqs">
-  <div class="container">
-    <div class="row">
+    <div class="width-1600 faqs-container-parent">
+        <div class="container-fluid">
+    <div class="row justify-content-center">
       <div class="col-md-12">
         <div class="sec_title text-center">
           <h2 class="sec_title_head color-lightBlue2">
@@ -10,7 +11,7 @@
         </div>
       </div>
 
-      <div class="col-sm-12 col-lg-6">
+      <div class="col-md-9 col-lg-6">
 
         <div id="accordion">
           <div class="card">
@@ -118,7 +119,7 @@
 
       </div>
 
-      <div class="col-sm-12 col-lg-6">
+      <div class="col-md-9 col-lg-6">
 
         <div id="accordion">
           <div class="card">
@@ -216,4 +217,5 @@
       </div>
     </div>
   </div>
+    </div>
 </section>

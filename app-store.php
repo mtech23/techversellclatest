@@ -55,8 +55,8 @@
   <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
   <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
     </div>
-  <div class="techVerse_aboutContent techVerse_aboutContentServices1">
-    <div class="container">
+  <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600">
+    <div class="container-fluid">
       <div class="row">
 
         <div class="col-md-6">
@@ -88,7 +88,7 @@ Techverse LLC's App Optimization At Your Service.
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/app-img-01.png" class="about-laptopImg business-devlopmentImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/app-img-01.png" class="appStore-img1 business-devlopmentImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>

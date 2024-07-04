@@ -19,7 +19,7 @@
                 <div class="sec_title">
                   <h2 class="sec_title_head color-lightBlue2">
                     CONTACT
-                    <span class="color-darkBlue">Us</span>
+                    <span class="color-darkBlue">US</span>
                   </h2>
                 </div>
                 <form method="POST" id="leadForm" action="">

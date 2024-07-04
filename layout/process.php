@@ -11,7 +11,7 @@
         <div class="sec_title">
           <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
             Process
-            <span class="color-darkBlue">We USe</span>
+            <span class="color-darkBlue">We Use</span>
           </h2>
           <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
               

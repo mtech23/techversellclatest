@@ -1,6 +1,7 @@
 <section class="techVerse_testimonials">
-  <div class="techVerse_testimonialsContent">
-    <div class="container">
+  <!--<div class="techVerse_testimonialsContent">-->
+  <div class="width-1600">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
           <div class="techVerse_testimonialsTextSec">

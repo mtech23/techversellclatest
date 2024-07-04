@@ -63,13 +63,13 @@
   <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
   <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
     </div>
-  <div class="techVerse_aboutContent techVerse_aboutContentServices1">
-    <div class="container">
+  <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600 ecom-abt1">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/ecommerse-gif.gif" class="about-laptopImg business-devlopmentImg real-estate-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/ecommerse-gif.gif" class="business-devlopmentImg ecom-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -126,13 +126,13 @@
   <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
   <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
     </div>
-  <div class="techVerse_aboutContent techVerse_aboutContentServices2">
-    <div class="container">
+  <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
+    <div class="container-fluid">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-lg-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img realEstate-gif">
-              <img src="images/ecommerse-desktop-img.png" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/ecommerse-desktop-img.png" class="about-laptopImg ecom-img2" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
             <div class="techVerse_hero_btns re_appDev_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
@@ -146,7 +146,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6">
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">Our
@@ -161,6 +161,7 @@
 
         </div>
       </div>
+    </div>
     </div>
 </section>
 
@@ -283,8 +284,8 @@
   <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
   <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
     </div>
-  <div class="techVerse_aboutContent techVerse_aboutContentServices2">
-    <div class="container">
+  <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
