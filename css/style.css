@@ -49,7 +49,7 @@ h2 {
 }
 .techVerse_navbar .nav-link {
   color: #fff;
-  font-size: 17px;
+  font-size: 15px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
 }
@@ -64,7 +64,7 @@ h2 {
   margin: 40px 0;
   color: #000;
 }
-.dropdown_linkBox:hover {
+.dropdown_linkBox a:hover {
   /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
   text-decoration: none;
 }
@@ -490,10 +490,10 @@ h2 {
   position: relative;
 }
 
-#portfolioTabs {
-  max-width: 1600px;
-  margin: 0 auto;
-}
+/*#portfolioTabs {*/
+/*  max-width: 1600px;*/
+/*  margin: 0 auto;*/
+/*}*/
 #portfolioTabs .swiper-slide img {
   width: 100%;
 }
@@ -502,19 +502,19 @@ h2 {
 } 
 
 .our-slider-img {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: -6px;
-  margin: auto;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /*z-index: 99;*/
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -12px;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 99;
 }
 .our-slider-img img {
-  width: 20.1%;
+    width: 21%;
 }
 
 .our-slider-webframe {
@@ -530,7 +530,7 @@ h2 {
   z-index: 99;
 }
 .our-slider-webframe img {
-  width: 58.9%;
+    width: 40.9%;
 }
 
 /* Portfolio ENd */
@@ -1039,10 +1039,10 @@ body .rc h2 {
     font-family: "Sora", sans-serif;
     position: absolute;
     /* left: -36.1%; */
-    left: -383px;
+    left: -375px;
     top: 46%;
     transform: rotate(90deg);
-    width: 816px;
+    width: 800px;
 }
 .newLetterBox_strokeTxt {
   letter-spacing: 39px;
@@ -1195,10 +1195,7 @@ body .rc h2 {
   text-decoration: none;
   transition: all 0.15s;
 }
-.techVerse_footerContent {
-  max-width: 1600px;
-  margin: 0 auto;
-}
+
 .footer_formBox input.form-control {
   padding: 10px 10px;
   border: unset;
@@ -1227,7 +1224,7 @@ body .rc h2 {
 .techVerse_powerdby {
   display: flex;
   justify-content: end;
-  gap: 10px;
+  gap: 15px;
 }
 .techVerse_powerdby a {
   color: #ffffffb3;
@@ -1713,6 +1710,23 @@ canvas.particles-js-canvas-el {
     width: 100%;
     background: #001c36ab;
 }
+.inner_hero.contactUSNew_hero{
+    /*background-image: url(../images/inner-hero-bg.gif);*/
+    background-image: url(../images/contact-hero-form-bg.png);
+}
+/*.contactUSNew_hero .inner-bgColor {*/
+/*    background-image: url(../images/contact-hero-form-bg.png);*/
+/*    opacity: 0.8;*/
+/*    background-position: top center;*/
+/*    background-size: cover;*/
+/*}*/
+.contactUSNew_hero .inner-bgColor:after{
+    content:"";
+    display: block;
+    height: 100%;
+    width: 100%;
+    background: #001c36ab;
+}
 
 
 .ecommerse-hero .inner-bgColor {
@@ -1751,6 +1765,19 @@ canvas.particles-js-canvas-el {
   background-position: top center;
   background-size: cover;
 }
+.sports-hero .inner-bgColor {
+  background-image: url(../images/sports-hero-bg.png);
+  opacity: 0.7;
+  background-position: top center;
+  background-size: cover;
+}
+.travel-hero .inner-bgColor {
+  background-image: url(../images/travel-hero-bg.png);
+  opacity: 0.7;
+  background-position: top center;
+  background-size: cover;
+}
+
 .inner_hero .row {
   align-items: center;
 }
@@ -2091,7 +2118,7 @@ canvas.particles-js-canvas-el {
 
 .buildStore_sec_title {
   text-align: center;
-  max-width: 1140px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 /*.build-store-img {*/
@@ -2196,6 +2223,9 @@ canvas.particles-js-canvas-el {
   font-weight: 700;
   margin-bottom: 0;
 }
+.icon_box p{
+    margin-bottom: 0;
+}
 /* Real Estate End */
 
 /* Inner Pages End */
@@ -2228,8 +2258,10 @@ canvas.particles-js-canvas-el {
   align-items: center;
 }
 .techVerse_store_link {
-  display: block;
-  max-width: 150px;
+    display: block;
+    max-width: 150px;
+    border-radius: 5px;
+    overflow: hidden;
 }
 .techVerse_store_link img {
   width: 100%;
@@ -2335,8 +2367,81 @@ canvas.particles-js-canvas-el {
     margin-left: auto !important;
 }
 
+.sports-img-2,
+.sports-img-3{
+    width: 75% !important;
+    margin-right: auto;
+}
+.sports-img-1{
+    width: 90% !important;
+    margin-right: auto;
+}
+
+.travel-abt1 {
+    background-color: #F6F2F2;
+}
+.travel-img-1-airplane {
+    position: absolute;
+    right: 4%;
+    max-width: 250px;
+    top: 24%;
+}
+.travel-abt2 {
+    background-color: #F6FAFB;
+}
+.travel-img-2 {
+    width: 80% !important;
+    margin-right: auto;
+}
+.reApp_box {
+    position: relative;
+    z-index: 9;
+}
+.travel-img-3 {
+    width: 80% !important;
+    margin-right: auto;
+}
+
+.contactPage_form {
+    background-color: #fff;
+    padding: 40px;
+    border: 3px solid #3dc1ff;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.contactPage_form  .contact_formContent {
+    padding-left: 0;
+    padding-top: 0;
+    background-image: unset;
+}
+.contactUSNew_hero .box_icon img {
+    width: 55px;
+}
+.footer-spacer {
+    margin-top: 60px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ffffff6b;
+}
+
+.edu-hr-img1-div {
+    position: relative;
+}
+.eduHR-img1 {
+    position: absolute;
+    width: 100% !important;
+    left: 0;
+    top: -1610%;
+    transform: scale(1.3) !important;
+    transform-origin: left;
+    z-index: 9;
+}
+
+
 /* Media Quries */
 @media (max-width: 1600px) {
+    .eduHR-img1 {
+        top: -1400%;
+        
+    }
   .about-laptopImg {
     width: 100%;
   }
@@ -2352,9 +2457,7 @@ canvas.particles-js-canvas-el {
   .techVerse_caseStudies-Content {
     max-width: 1400px;
   }
-  /*.get_discount {*/
-  /*  left: -43.4%;*/
-  /*}*/
+  
   .contactUs-laptop {
     width: 120%;
   }
@@ -2383,6 +2486,19 @@ canvas.particles-js-canvas-el {
   }
 }
 @media (max-width: 1440px) {
+    
+    .eduHR-img1 {
+        top: -1350%;
+        transform: scale(1.7) !important;
+        transform-origin: center;
+    }
+    p.company_wishText{
+        font-size: 14px;
+    }
+    .travel-img-1-airplane {
+    right: 0;
+    max-width: 230px;
+}
     .mobile-app-22 {
     width: 80%;
 }
@@ -2395,9 +2511,7 @@ canvas.particles-js-canvas-el {
    .testimonials_title {
     font-size: 67px;
   } 
-  /*.get_discount {*/
-  /*  left: -48.4%;*/
-  /*}*/
+  
   .techVerse_about_icon4 {
         top: 1%;
         right: 1%;
@@ -2431,6 +2545,11 @@ canvas.particles-js-canvas-el {
     .techVerse_heroContent {
         padding: 0 15px;
     }
+    
+    
+    .footer__links .footer__link a {
+      font-size: 14px;
+    }
   
 }
 @media (max-width: 1380px) {
@@ -2444,16 +2563,26 @@ canvas.particles-js-canvas-el {
     letter-spacing: 14px;
   } */
   
-  /*.get_discount {*/
-  /*  left: -50.6%;*/
-  /*}*/
+  
   .first-dropdown-menu, .second-dropdown-menu {
     width: 90%;
     left: 50%;
     transform: translateX(-50%);
   }
+  .our-slider-img {
+    top: -14px;
+    }
+    .our-slider-img img {
+        width: 20.9%;
+    }
+  
 }
 @media (max-width: 1280px) {
+        .eduHR-img1 {
+        top: -1220%;
+    }
+    
+        
     .techVerse_aboutContentServices1 .techVerse_about_laptop_img img {
         width: 90%;
     }
@@ -2463,9 +2592,7 @@ canvas.particles-js-canvas-el {
       .techVerse_mobileApp_content {
         padding: 30px 0 30px 15px;
     }
-  /*.get_discount {*/
-  /*  left: -54.7%;*/
-  /*}*/
+ 
   .news_letterInput {
     width: 95%;
     margin: 0 auto;
@@ -2495,17 +2622,31 @@ canvas.particles-js-canvas-el {
     .webDev_hero_img {
     transform: scale(1.2) translateX(-3%) !important;
 }
-.techVerse_footerContent{
-    padding: 0 30px;
-}
+
 .footer__links .footer__link a{
     font-size: 13px;
 }
+
+    .our-slider-img img {
+        width: 20.7%;
+    }
+        .our-slider-img {
+        top: -12px;
+    }
 
 
   
 }
 @media (max-width: 1024px) {
+        .eduHR-img1 {
+        top: -970%;
+    }
+        .travel-img-1-airplane {
+        max-width: 180px;
+    }
+    .sports-img-1, .sports-img-2, .sports-img-3 {
+        width: 100% !important;
+    }
         .mobile-app-22 {
         width: 100%;
         margin: 10px 0 -70px auto;
@@ -2516,9 +2657,7 @@ canvas.particles-js-canvas-el {
   .our-slider-img img {
     width: 20%;
   }
-      .techVerse_footerContent {
-        padding: 0 15px;
-    }
+      
 
   .our-slider-img {
     top: -8px;
@@ -2581,10 +2720,10 @@ canvas.particles-js-canvas-el {
   .contact-formCols {
     margin-bottom: 20px !important;
   }
-  .get_discount {
-        /*left: -53.3%;*/
-        width: 650px;
-        left: -300px;
+    .get_discount {
+        /* left: -53.3%; */
+        width: 636px;
+        left: -293px;
     }
 
   .contact_formContent {
@@ -2724,10 +2863,35 @@ canvas.particles-js-canvas-el {
     width: 100% !important;
     margin-left: auto !important;
 }
+.our-slider-webframe img {
+    width: 39.9%;
+}
+.our-slider-webframe {
+    top: 113px;
+}
 
     
 }
 @media (max-width: 991px) {
+        .eduHR-img1 {
+        top: -940%;
+        transform: scale(1.8) !important;
+    }
+    .travel-img-3 {
+    margin: auto !important;
+    max-width: 450px;
+}
+.travel-img-2 {
+    margin: auto;
+    max-width: 450px;
+}
+    .sports-img-2, .sports-img-3 {
+    max-width: 450px !important;
+}
+.sports-img-3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
     .mobile-app-22 {
     width: 50%;
     margin: 10px auto;
@@ -2757,8 +2921,11 @@ canvas.particles-js-canvas-el {
     padding: 10px 30px;
   }
   .our-slider-webframe img {
-    width: 56.9%;
-  }
+    width: 40.1%;
+}
+.our-slider-webframe {
+    top: 102px;
+}
   .services_offerContainer {
     max-width: unset;
   }
@@ -2787,15 +2954,11 @@ canvas.particles-js-canvas-el {
     display: block;
     margin: 0 auto 100px;
   }
-  /*.get_discount {*/
-  /*  left: -30.6%;*/
-  /*  width: 639px;*/
-  /*  top: 46.1%;*/
-  /*}*/
+  
   .get_discount {
-        /* left: -53.3%; */
         width: 632px;
         left: -291px;
+        top: 46.1%;
     }
 
   .techVerse_hero .row {
@@ -2883,11 +3046,11 @@ canvas.particles-js-canvas-el {
     top: 200px;
   }
   .our-slider-img {
-    top: -4px;
-  }
-  .our-slider-img img {
-    width: 18.6%;
-  }
+    top: -7px;
+}
+.our-slider-img img {
+    width: 19.8%;
+}
   .app_devBoxes {
     gap: 15px;
   }
@@ -2935,9 +3098,9 @@ canvas.particles-js-canvas-el {
 .techVerse_heroContent{
     padding: 0 15px;
 }
-.mobileAppCarousel swiper-slide img {
-      border-radius: 20px;
-} 
+/*.mobileAppCarousel swiper-slide img {*/
+/*      border-radius: 20px;*/
+/*} */
 
 .realEstate-appSec_title {
     text-align: center;
@@ -2980,22 +3143,42 @@ canvas.particles-js-canvas-el {
     max-width: 450px;
     margin: 0 auto 40px;
 }
+.contactUSNew_hero  .inner_hero_content {
+    margin-bottom: 30px;
+}
+
+.contactUSNew_hero .inner_hero_content h1 br{
+    display: none;
+}
+
+.contact-page-subhead {
+    font-size: 20px;
+}
 
 
   
 }
 @media (max-width: 800px) {
-  /*.get_discount {*/
-  /*  left: -38.2%;*/
-  /*}*/
-  /* .testimonials_title {
-    font-size: 42px;
-  } */
-  /* .testimonial {
-    padding: 40px;
-    height: 390px;
-    width: 100%;
-  } */
+    
+        .eduHR-img1 {
+        top: -740%;
+        transform: scale(2) !important;
+    }
+    
+        p.company_wishText {
+        font-size: 13px;
+    }
+    
+    
+    
+    .travel-img-1-airplane {
+        max-width: 140px;
+    }
+    .get_discount {
+        width: 633px;
+        left: -291px;
+        top: 46%;
+    }
   .testimonial {
     padding: 70px 60px;
     height: 380px;
@@ -3056,12 +3239,28 @@ canvas.particles-js-canvas-el {
       .web-development_hero_img {
         transform: scale(1.2) translateX(-2%) !important;
     }
+    
+    
+    .our-slider-webframe img {
+        width: 39.1%;
+    }
+    .our-slider-webframe {
+        top: 106px;
+    }
+    
+        .our-slider-img img {
+        width: 18.8%;
+    }
+    
   
 }
 @media (max-width: 768px) {
+    .sports-img-3 {
+        max-width: 270px !important;
+    }
     .techVerse_process {
-    padding: 40px 0;
-}
+        padding: 40px 0;
+    }
   .company_wishText {
     font-size: 13px;
   }
@@ -3112,9 +3311,25 @@ canvas.particles-js-canvas-el {
         height: 400px;
     }
     
+        
+    
+    
 }
 
 @media (max-width: 736px) {
+    .eduHR-img1 {
+        position: unset;
+        transform: scale(1.9) !important;
+    }
+    
+    .travel-img-1-airplane {
+        max-width: 240px;
+    }
+    .sports-img-1 {
+    max-width: 450px;
+    margin: 0 auto !important;
+    display: block;
+}
     .real-estate-img1 {
     transform: scale(1.1) !important;
 }
@@ -3219,7 +3434,7 @@ canvas.particles-js-canvas-el {
     top: -4px;
   }
   .our-slider-img img {
-    width: 17.6%;
+    width: 18.6%;
   }
   .get_discount {
     position: unset;
@@ -3246,7 +3461,7 @@ canvas.particles-js-canvas-el {
     font-size: 20px;
   }
   .footer__links .footer__link a {
-    font-size: 16px;
+    font-size: 14px;
   }
   .footer_copyright-col {
     padding: 0;
@@ -3288,9 +3503,12 @@ canvas.particles-js-canvas-el {
   .tech-box img {
     width: 110px;
   }
-  .our-slider-webframe img {
-    width: 55.9%;
-  }
+   .our-slider-webframe img {
+        width: 126%;
+    }
+    .our-slider-webframe {
+        top: 87px;
+    }
   .app_devBoxes {
     margin-bottom: unset;
     grid-template-columns: repeat(2, 1fr);
@@ -3313,7 +3531,9 @@ canvas.particles-js-canvas-el {
   }
   .reApp_box {
     text-align: center;
-  }
+    max-width: 450px;
+    margin: 15px auto;
+}
   .reApp_box_icon {
     margin: 0 auto;
   }
@@ -3365,9 +3585,36 @@ canvas.particles-js-canvas-el {
     width: 450px !important;
     margin: 0 auto 30px !important;
 }
+    .bgOrange {
+        height: 370px;
+        max-width: 430px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+        .bgOrange img {
+        transform: scale(0.7) rotate(36deg) translateY(65pc);
+        bottom: -94pc;
+        right: 20px;
+    }
+    .contactUSNew_hero .row {
+    flex-direction: column;
+}
+.contactUSNew_hero  .inner_hero_content {
+    text-align: left;
+}
+.contactUSNew_hero  .inner_hero_content  .techVerse_store_links{
+    justify-content: start;
+}
+.contactUSNew_hero .inner_hero_content {
+        margin-bottom: 0;
+    }
+
     
 }
 @media (max-width: 480px) {
+        .travel-img-1-airplane {
+        max-width: 150px;
+    }
     .mobile-app-22 {
     width: 70%;
     margin: 10px auto -30px;
@@ -3434,10 +3681,10 @@ canvas.particles-js-canvas-el {
     margin: 0 auto;
   }
   .our-slider-webframe {
-    top: 100px;
-  }
+        top: 97px;
+    }
   .our-slider-webframe img {
-    width: 119%;
+    width: 124%;
   }
   .techVerse_powerdby a {
     font-size: 13px;
@@ -3524,6 +3771,14 @@ canvas.particles-js-canvas-el {
         font-size: 24px;
     }
     
+    .contactPage_form {
+    padding: 20px;
+    border: 2px solid #3dc1ff;
+}
+.contactPage_form .row {
+    gap: 0;
+}
+    
 }
 
 @media (max-width: 428px) {
@@ -3546,10 +3801,11 @@ canvas.particles-js-canvas-el {
   }
   .techVerse_testimonialsTextSec-img {
     height: 300px;
-    margin-top: -50px !important;
-  }
+    margin-top: 0px !important;
+    margin-bottom: 30px !important;
+}
   .testimonials_title {
-    font-size: 49px;
+    font-size: 32px;
   }
   .testimonial .content p {
     line-height: 2;
@@ -3570,6 +3826,9 @@ canvas.particles-js-canvas-el {
         bottom: -75pc;
         right: -50px;
     }
+    .our-slider-webframe img {
+        width: 123%;
+    }
 }
 
 @media (max-width: 375px) {
@@ -3584,12 +3843,18 @@ canvas.particles-js-canvas-el {
   .techVerse_mobileApp .sec_title .sec_title_head {
     font-size: 27px;
   }
-  .testimonials_title {
-    font-size: 45px;
-  }
+  /*.testimonials_title {*/
+  /*  font-size: 45px;*/
+  /*}*/
   .bgOrange img {
         transform: scale(0.7) rotate(36deg) translateY(55pc);
         bottom: -70pc;
         right: 0;
+    }
+        .our-slider-webframe img {
+        width: 121%;
+    }
+    .our-slider-webframe {
+        top: 137px;
     }
 }

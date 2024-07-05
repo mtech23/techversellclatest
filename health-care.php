@@ -156,8 +156,8 @@
 
 <!-- Portfolio -->
 <section class="techVerse_portfolio">
-  <div class="techVerse_portfolioContent">
-    <div class="container">
+  <div class="techVerse_portfolioContent width-1600">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title">

@@ -99,28 +99,36 @@
                                 <div class="col-md-6 col-xl-4">
                                     <ul class="custom_dropdown_list">
                                         <li>
-                                            <a href="mobile-app.php" class="dropdown_linkBox">
-                                                <h4>Mobile Application Development</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="mobile-app.php" />
+                                                    <h4>Mobile Application Development</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="ecommerse-development.php" class="dropdown_linkBox">
-                                                <h4>E-Commerce Development</h4>
-                                                <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            <div class="dropdown_linkBox">
+                                                <a href="ecommerse-development.php">
+                                                    <h4>E-Commerce Development</h4>
+                                                </a>
+                                                p>Custom Mobile App Development.</p>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="app-store.php" class="dropdown_linkBox">
-                                                <h4>App Store</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="app-store.php">
+                                                    <h4>App Store</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="business-devlopment.php" class="dropdown_linkBox">
-                                                <h4>Business Development</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="business-devlopment.php">
+                                                    <h4>Business Development</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                     </ul>
 
@@ -128,29 +136,29 @@
                                 <div class="col-md-6 col-xl-4">
                                     <ul class="custom_dropdown_list">
                                         <li>
-                                            <a href="web-development.php" class="dropdown_linkBox">
-                                                <h4>Web Development</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="web-development.php">
+                                                    <h4>Web Development</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="digital-marketing.php" class="dropdown_linkBox">
-                                                <h4>Digital Marketing</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="digital-marketing.php">
+                                                    <h4>Digital Marketing</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="web-application.php" class="dropdown_linkBox">
-                                                <h4>Web Application</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="web-application.php">
+                                                    <h4>Web Application</h4>
+                                                </a>
                                                 <p>Custom Mobile App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
-                                        <!--<li>-->
-                                        <!--    <a href="#" class="dropdown_linkBox">-->
-                                        <!--        <h4>Blockchain Game Development</h4>-->
-                                        <!--        <p>Best Blockchain Game Developers.</p>-->
-                                        <!--    </a>-->
-                                        <!--</li>-->
                                     </ul>
 
                                 </div>
@@ -162,14 +170,7 @@
                                 <!--                <p>Best Game App Developers.</p>-->
                                 <!--            </a>-->
                                 <!--        </li>-->
-                                <!--        <li>-->
-                                <!--            <a href="digital-marketing.php" class="dropdown_linkBox">-->
-                                <!--                <h4>NFT Game Development </h4>-->
-                                <!--                <p>Best NFT Game Developers.</p>-->
-                                <!--            </a>-->
-                                <!--        </li>-->
                                 <!--    </ul>-->
-
                                 <!--</div>-->
                                 
                             </div>
@@ -181,28 +182,36 @@
                         <h3 class="custom_dropdown_sidebarTitle">How We Work?</h3>
                         <ul class="custom_dropdown_list">
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Design</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Design</h4>
+                                    </a>
                                     <p>Compelling and Eye-Catching Designs.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Development</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Development</h4>
+                                    </a>
                                     <p>Agile Working Methodologies.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Testing</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Testing</h4>
+                                    </a>
                                     <p>Rigorous Testing & QA</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Deployment</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Deployment</h4>
+                                    </a>
                                     <p>Seamless Launch of Product.</p>
-                                </a>
+                                </div>
                             </li>
                         </ul>
                     </div>
@@ -237,28 +246,36 @@
                                     <ul class="custom_dropdown_list">
                                        
                                         <li>
-                                            <a href="realEstate-and-property.php" class="dropdown_linkBox">
-                                                <h4>Real Estate & Property </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="realEstate-and-property.php">
+                                                    <h4>Real Estate & Property </h4>
+                                                </a>
                                                 <p>Custom-Built Real Estate Solutions.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="automotive.php" class="dropdown_linkBox">
-                                                <h4>Automotive and Transport </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="automotive.php">
+                                                    <h4>Automotive and Transport </h4>
+                                                </a>
                                                 <p>Best Automotive Apps.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="ecommerse.php" class="dropdown_linkBox">
-                                                <h4>E-commerce & Retails </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="ecommerse.php">
+                                                    <h4>E-commerce & Retails </h4>
+                                                </a>
                                                 <p>Revolutionized Apps for Retail.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown_linkBox">
-                                                <h4>Advertising </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="#">
+                                                    <h4>Advertising </h4>
+                                                </a>
                                                 <p>Advertising Apps Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                     </ul>
 
@@ -267,28 +284,36 @@
                                     <ul class="custom_dropdown_list">
                                        
                                         <li>
-                                            <a href="education-hr.php" class="dropdown_linkBox">
-                                                <h4>Education & HR </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="education-hr.php">
+                                                    <h4>Education & HR </h4>
+                                                </a>
                                                 <p>Educational App Development.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="health-care.php" class="dropdown_linkBox">
-                                                <h4>Health and Life Sciences</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="health-care.php">
+                                                    <h4>Health and Life Sciences</h4>
+                                                </a>
                                                 <p>Seamless Healthcare App.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown_linkBox">
-                                                <h4>Software & High Tech</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="#">
+                                                    <h4>Software & High Tech</h4>
+                                                </a>
                                                 <p>Custom Software Apps.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="finance.php" class="dropdown_linkBox">
-                                                <h4>Finance</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="finance.php">
+                                                    <h4>Finance</h4>
+                                                </a>
                                                 <p>Fintech Software Developers.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                     </ul>
 
@@ -297,28 +322,28 @@
                                     <ul class="custom_dropdown_list">
                                        
                                         <li>
-                                            <a href="media.php" class="dropdown_linkBox">
-                                                <h4>Media & Entertainment </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="media.php">
+                                                    <h4>Media & Entertainment </h4>
+                                                </a>
                                                 <p>Application Development Services.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown_linkBox">
-                                                <h4>Sports Teams & Leagues </h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="sports.php">
+                                                    <h4>Sports Teams & Leagues </h4>
+                                                </a>
                                                 <p>Sports Teams Management Apps.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                         <li>
-                                            <a href="#" class="dropdown_linkBox">
-                                                <h4>Gaming & Leisure </h4>
-                                                <p>Top Game Developers.</p>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="dropdown_linkBox">
-                                                <h4>Travel & Hospitality</h4>
+                                            <div class="dropdown_linkBox">
+                                                <a href="travel.php">
+                                                    <h4>Travel & Hospitality</h4>
+                                                </a>
                                                 <p>Application Development Services.</p>
-                                            </a>
+                                            </div>
                                         </li>
                                     </ul>
 
@@ -333,34 +358,44 @@
                         <h3 class="custom_dropdown_sidebarTitle">Core Solutions</h3>
                         <ul class="custom_dropdown_list">
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>E-Commerce Solution</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>E-Commerce Solution</h4>
+                                    </a>
                                     <p>Ecommerce for Small Business.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Booking App</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Booking App</h4>
+                                    </a>
                                     <p>Booking App Development Solutions.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>On Demand Delivery</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>On Demand Delivery</h4>
+                                    </a>
                                     <p>On Demand Delivery App.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Restaurant Management</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Restaurant Management</h4>
+                                    </a>
                                     <p>Cloud Based Restaurant Management.</p>
-                                </a>
+                                </div>
                             </li>
                             <li>
-                                <a href="#" class="dropdown_linkBox">
-                                    <h4>Real Estate</h4>
+                                <div class="dropdown_linkBox">
+                                    <a href="#">
+                                        <h4>Real Estate</h4>
+                                    </a>
                                     <p>Commercial Real Estate App.</p>
-                                </a>
+                                </div>
                             </li>
                         </ul>
                     </div>

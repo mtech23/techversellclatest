@@ -1,6 +1,6 @@
  <!-- Footer -->
  <section class="techVerse_footer" id="particles-js">
-     <div class="techVerse_footerContent">
+     <div class="techVerse_footerContent width-1600">
          <div class="container-fluid">
              <div class="row footer_row">
                  <div class="col-xl-9 col-md-12">
@@ -147,7 +147,8 @@
                              </div>
                          </div>
                      </div>
-                     <div class="col-md-12 footer_copyright-col">
+                     <div class="footer-spacer"></div>
+                     <div class="col-md-12 footer_copyright-col px-0">
                          <div class="row footer_copyright">
                              <div class="col-lg-4">
                                  <div class="techVerse_footer_copyright">

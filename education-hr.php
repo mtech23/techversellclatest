@@ -67,10 +67,8 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
-          <div class="techVerse_about_img">
-            <div class="techVerse_about_laptop_img">
-              <img src="images/edu-hr-img-1.png" class="business-devlopmentImg eduHR-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
-            </div>
+          <div class="edu-hr-img1-div">
+              <img src="images/edu-hr-img-1.png" class="eduHR-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />-->
           </div>
         </div>
         <div class="col-md-6">
@@ -167,8 +165,8 @@
 
 <!-- Portfolio -->
 <section class="techVerse_portfolio">
-  <div class="techVerse_portfolioContent">
-    <div class="container">
+  <div class="techVerse_portfolioContent width-1600">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title">

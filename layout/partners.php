@@ -1,8 +1,8 @@
 <section class="techVerse_partners hoverEffectSec">
-  <div class="icon-container-hover">
-      <img class="techVerse_partners_icon1 animation11" src="images/blue-cube-large.png" alt="" />
-      <img class="techVerse_partners_icon2 animation22" src="images/peramid-angled.png" alt="" />
-  </div>
+  <!--<div class="icon-container-hover">-->
+  <!--    <img class="techVerse_partners_icon1 animation11" src="images/blue-cube-large.png" alt="" />-->
+  <!--    <img class="techVerse_partners_icon2 animation22" src="images/peramid-angled.png" alt="" />-->
+  <!--</div>-->
   <div class="techVerse_Contentpartners">
     <div class="container-fluid">
       <div class="row">

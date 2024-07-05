@@ -153,8 +153,9 @@ var swiper = new Swiper(".webAppCarousel", {
     disableOnInteraction: false,
   },
   breakpoints: {
-    640: {
-      slidesPerView: 2.1,
+    766: {
+    //   slidesPerView: 2.1,
+      slidesPerView: 3,
       spaceBetween: 30,
     },
   },
