@@ -57,7 +57,7 @@
                   data-aos-duration="2000"
                 >
                   What Happens Next?
-                </p>
+                </p><br>
                 <div
                   class="icon_box"
                   data-aos="fade-up"
@@ -104,7 +104,7 @@
                   data-aos="fade-up"
                   data-aos-duration="2000"
                   data-aos-offset="0"
-                >
+                ><br>
                   We are trusted on
                 </h3>
                 <div

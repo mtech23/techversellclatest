@@ -162,10 +162,11 @@ var swiper = new Swiper(".webAppCarousel", {
 });
 
 var swiperHero = new Swiper(".mySwiperHero", {
-  spaceBetween: 30,
+//   spaceBetween: 30,
+  spaceBetween: 0,
   // effect: "fade",
   speed: 600,
-  parallax: true,
+//   parallax: true,
   loop: true,
   pagination: {
     el: ".swiper-pagination",
@@ -231,6 +232,9 @@ jQuery(document).ready(function () {
     }
   });
 });
+
+
+
 
 var count_particles, stats, update;
 stats = new Stats();

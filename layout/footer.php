@@ -61,7 +61,7 @@
                          </div>
                          <div class="col-md-3">
                              <div class="footer__quick-links">
-                                 <h3 class="foooter__subhead">Quick Links</h3>
+                                 <h3 class="foooter__subhead">Services</h3>
                                  <ul class="icon_list_items footer__links footer__categories_links">
                                      <li class="footer__link">
                                          <a href="#">Business Development</a>
@@ -129,20 +129,20 @@
                          </div>
                          <div class="col-md-2">
                              <div class="footer__quick-links">
-                                 <h3 class="foooter__subhead">About</h3>
+                                 <h3 class="foooter__subhead">Quick Links</h3>
                                  <ul class="icon_list_items footer__links footer__categories_links">
                                      <li class="footer__link">
-                                         <a href="#">Pricing</a>
+                                         <a href="#">About</a>
                                      </li>
                                      <li class="footer__link">
-                                         <a href="#">Contact us</a>
+                                         <a href="#">Blogs</a>
                                      </li>
                                      <li class="footer__link">
-                                         <a href="#">Podcast</a>
+                                         <a href="#">Contact</a>
                                      </li>
-                                     <li class="footer__link">
-                                         <a href="#">Guest Posts</a>
-                                     </li>
+                                     <!--<li class="footer__link">-->
+                                     <!--    <a href="#">Guest Posts</a>-->
+                                     <!--</li>-->
                                  </ul>
                              </div>
                          </div>
@@ -157,12 +157,9 @@
                              </div>
                              <div class="col-lg-8">
                                  <div class="techVerse_powerdby">
-                                     <a href="#">Corporate Profile</a>
-                                     <a href="#">Our Creations</a>
-                                     <a href="#">Podcast</a>
-                                     <a href="#">Blog</a>
                                      <a href="#">Privacy Policy</a>
                                      <a href="#">Terms & Conditions</a>
+                                     
                                  </div>
                              </div>
                              <div class="col-md-12">
@@ -208,7 +205,7 @@
                                  <div class="hero_brands">
                                      <a href="#" class="hero_brands_img"><img src="images/dmca.png" alt="" /></a>
                                      <a href="#" class="hero_brands_img"><img src="images/dmca-complaint.png" alt="" /></a>
-                                     <a href="#" class="hero_brands_img"><img src="images/playstore.png" alt="" /></a>
+                                     <!--<a href="#" class="hero_brands_img"><img src="images/playstore.png" alt="" /></a>-->
                                  </div>
                                  <div class="footer_certicate">
                                      <img src="images/footer_certificate.png.png" alt="" />

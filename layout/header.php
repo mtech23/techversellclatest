@@ -49,6 +49,9 @@
                         </div>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="case-study.php">Case Study</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <!--<li class="nav-item">-->
@@ -103,15 +106,15 @@
                                                 <a href="mobile-app.php" />
                                                     <h4>Mobile Application Development</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>Custom Mobile App Development</p>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="dropdown_linkBox">
                                                 <a href="ecommerse-development.php">
-                                                    <h4>E-Commerce Development</h4>
+                                                    <h4>Ecommerce Development</h4>
                                                 </a>
-                                                p>Custom Mobile App Development.</p>
+                                                <p>Top-Of-The-Line Ecommerce Solutions</p>
                                             </div>
                                         </li>
                                         <li>
@@ -119,7 +122,7 @@
                                                 <a href="app-store.php">
                                                     <h4>App Store</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>Optimization Development Company</p>
                                             </div>
                                         </li>
                                         <li>
@@ -127,7 +130,7 @@
                                                 <a href="business-devlopment.php">
                                                     <h4>Business Development</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>MVP Product Development</p>
                                             </div>
                                         </li>
                                     </ul>
@@ -140,7 +143,7 @@
                                                 <a href="web-development.php">
                                                     <h4>Web Development</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>Ecommerce Web Development</p>
                                             </div>
                                         </li>
                                         <li>
@@ -148,7 +151,7 @@
                                                 <a href="digital-marketing.php">
                                                     <h4>Digital Marketing</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>Digital Marketing Agency USA</p>
                                             </div>
                                         </li>
                                         <li>
@@ -156,7 +159,7 @@
                                                 <a href="web-application.php">
                                                     <h4>Web Application</h4>
                                                 </a>
-                                                <p>Custom Mobile App Development.</p>
+                                                <p>Web Application</p>
                                             </div>
                                         </li>
                                     </ul>

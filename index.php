@@ -1,10 +1,10 @@
 <?php include('./layout/header.php') ?>
 <!-- Hero -->
 <div class="swiper mySwiperHero">
-  <div class="parallax-bg" style="background-image: url(images/hero-bg.png);" data-swiper-parallax="-23%"></div>
+  <!--<div class="parallax-bg" style="background-image: url(images/hero-bg.png);" data-swiper-parallax="-23%"></div>-->
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <section class="techVerse_hero hoverEffectSec">
+      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-bg.png);">
         <div class="techVerse_heroContent">
           <div class="container-fluid">
             <div class="row">
@@ -42,7 +42,7 @@
                       <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
                       <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
-                  <img src="images/hero-phone-mockup-group.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
+                  <img src="images/hero-phone-mockup-group.png" class="hero-img-1" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
               </div>
             </div>
@@ -51,19 +51,18 @@
       </section>
     </div>
     <div class="swiper-slide">
-      <section class="techVerse_hero hoverEffectSec">
+      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-slider-bg-2.png)">
         <div class="techVerse_heroContent">
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-6">
                 <div class="techVerse_hero_content">
                   <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-                    TECHVERSE LLC Pioneering 
-                    <span class="color-lightBlue1">The</span> Future Of Mobile Development
-                    Company In USA
+                    Custom Web Design By Experts In Just
+                    <span class="color-lightBlue1">24 hrs!</span>
                   </h1>
                   <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-                    At Techverse LLC, we are at the forefront of mobile app development, shaping the future with innovation and cutting-edge technology. Our team of expert developers, designers, and organizers work tirelessly to transform visionary ideas into dynamic mobile solutions that meet the needs of an ever-evolving digital landscape.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type 
                   </p>
                   <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
@@ -89,7 +88,7 @@
                       <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
                       <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
-                  <img src="images/hero-phone-mockup-group.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
+                  <img src="images/hero-web-mockup-group.png" class="hero-img-2" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
               </div>
             </div>
@@ -275,7 +274,7 @@
 </section>
 
 <!-- Portfolio -->
-<section class="techVerse_portfolio">
+<section class="techVerse_portfolio particles-js">
   <div class="techVerse_portfolioContent width-1600">
     <div class="container-fluid">
       <div class="row">
