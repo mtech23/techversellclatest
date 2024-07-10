@@ -228,39 +228,7 @@
               </div>
             </div>
             <div class="tab-pane fade" id="website-tab" role="tabpanel" aria-labelledby="websites_tab">
-              <div class="web_app_carousel">
-                <div class="swiper webAppCarousel">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                  </div>
-                </div>
-                <div class="our-slider-webframe">
-                  <img src="images/Macbook.png" alt="" />
-                </div>
-              </div>
+              <?php include('./layout/web-carousel.php') ?>
             </div>
 
           </div>

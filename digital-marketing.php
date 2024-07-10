@@ -33,7 +33,7 @@
         </div>
         <div class="col-md-6 inner-hero_rightCol">
           <div class="inner_hero_img">
-            <img src="images/digital-marketing-hero.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" class="digital-marketing-hero" alt="" />
+            <img src="images/digital-marketing-hero.webp" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" class="digital-marketing-hero" alt="" />
           </div>
         </div>
       </div>
@@ -93,7 +93,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/digital-marketing-01.png" class="digitalM-img1 business-devlopmentImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/digital-marketing-01.webp" class="digitalM-img1 business-devlopmentImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/digital-marketing-02.png" class="about-laptopImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/digital-marketing-02.webp" class="about-laptopImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>

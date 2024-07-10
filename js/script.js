@@ -126,6 +126,15 @@ circles.forEach((circle, i) => {
   );
 });
 
+
+
+
+
+
+
+
+
+
 var swiper = new Swiper(".mobileAppCarousel", {
   slidesPerView: 2.1,
   spaceBetween: 20,
@@ -164,7 +173,10 @@ var swiper = new Swiper(".webAppCarousel", {
 var swiperHero = new Swiper(".mySwiperHero", {
 //   spaceBetween: 30,
   spaceBetween: 0,
-  // effect: "fade",
+   effect: "fade",
+  fadeEffect: {
+      crossFade: true
+    },
   speed: 600,
 //   parallax: true,
   loop: true,
@@ -211,22 +223,46 @@ jQuery(document).ready(function () {
 //   });
 // });
 
+// jQuery(document).ready(function () {
+//   $("#navbarDropdown").on("click", function (event) {
+//     event.stopPropagation();
+//     $(".first-dropdown-menu").toggleClass("showing");
+//   });
+//   $("#navbarDropdown1").on("click", function (event) {
+//     event.stopPropagation();
+//     $(".second-dropdown-menu").toggleClass("showing1");
+//   });
+
+//   $("body").on("click", function (event) {
+//     if (!$(event.target).closest(".first-dropdown-menu").length) {
+//       $(".first-dropdown-menu").removeClass("showing");
+//     }
+//   });
+//   $("body").on("click", function (event) {
+//     if (!$(event.target).closest(".second-dropdown-menu").length) {
+//       $(".second-dropdown-menu").removeClass("showing1");
+//     }
+//   });
+// });
+
+
 jQuery(document).ready(function () {
   $("#navbarDropdown").on("click", function (event) {
     event.stopPropagation();
     $(".first-dropdown-menu").toggleClass("showing");
+    $(".second-dropdown-menu").removeClass("showing1"); // Close second dropdown if open
   });
+
   $("#navbarDropdown1").on("click", function (event) {
     event.stopPropagation();
     $(".second-dropdown-menu").toggleClass("showing1");
+    $(".first-dropdown-menu").removeClass("showing"); // Close first dropdown if open
   });
 
   $("body").on("click", function (event) {
     if (!$(event.target).closest(".first-dropdown-menu").length) {
       $(".first-dropdown-menu").removeClass("showing");
     }
-  });
-  $("body").on("click", function (event) {
     if (!$(event.target).closest(".second-dropdown-menu").length) {
       $(".second-dropdown-menu").removeClass("showing1");
     }

@@ -83,7 +83,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/rapidapp-img.png" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/rapidapp-img.webp" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>

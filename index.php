@@ -4,7 +4,7 @@
   <!--<div class="parallax-bg" style="background-image: url(images/hero-bg.png);" data-swiper-parallax="-23%"></div>-->
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-bg.png);">
+      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-bg.webp);">
         <div class="techVerse_heroContent">
           <div class="container-fluid">
             <div class="row">
@@ -12,7 +12,7 @@
                 <div class="techVerse_hero_content">
                   <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
                     TECHVERSE LLC Pioneering 
-                    <span class="color-lightBlue1">The</span> Future Of Mobile Development
+                    <span class="color-lightBlue1">The Future</span> Of Mobile Development
                     Company In USA
                   </h1>
                   <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
@@ -42,7 +42,7 @@
                       <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
                       <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
-                  <img src="images/hero-phone-mockup-group.png" class="hero-img-1" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
+                  <img src="images/hero-phone-mockup-group.webp" class="hero-img-1" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
               </div>
             </div>
@@ -51,18 +51,17 @@
       </section>
     </div>
     <div class="swiper-slide">
-      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-slider-bg-2.png)">
+      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-slider-bg-2.webp)">
         <div class="techVerse_heroContent">
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-6">
                 <div class="techVerse_hero_content">
                   <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-                    Custom Web Design By Experts In Just
-                    <span class="color-lightBlue1">24 hrs!</span>
+                    Creating <span class="color-lightBlue1">Custom Solutions</span> For A Digital Age With Techverse LLC
                   </h1>
                   <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type 
+                   In the rapidly evolving digital landscape, staying ahead requires innovative and personalized solutions that cater to unique business needs. At Techverse LLC, we specialize in creating custom digital solutions designed to transform and raise your business presence. 
                   </p>
                   <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
@@ -88,7 +87,52 @@
                       <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
                       <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
-                  <img src="images/hero-web-mockup-group.png" class="hero-img-2" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
+                  <img src="images/hero-web-mockup-group22.webp" class="hero-img-2" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="swiper-slide">
+      <section class="techVerse_hero hoverEffectSec" style="background-image: url(../images/hero-slider-bg-3.webp)">
+        <div class="techVerse_heroContent">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="techVerse_hero_content">
+                  <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+                    Experience <span class="color-lightBlue1">The Future</span> Of Digital Innovation With Us
+                  </h1>
+                  <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
+                    We are dedicated to revolutionizing your digital presence through bespoke website designs, intuitive mobile apps, and robust software solutions personalized to your unique business needs. Our team of passionate innovators harnesses the latest technology trends to propel your brand forward in the digital landscape.  
+                  </p>
+                  <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
+                    <a href="#" class="btn_with_icon">
+                      <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                      <span class="btn_with_icon_text">Call Now</span>
+                    </a>
+                    <a href="#" class="btn_with_icon btn_secondary">
+                      <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                      <span class="btn_with_icon_text">Chat Now</span>
+                    </a>
+                  </div>
+                  <div class="hero_brands" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
+                    <a href="#" class="hero_brands_img"><img src="images/clutch.png" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.png" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/bbb.png" alt="" /></a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="techVerse_hero_img">
+                  <div class="icon-container-hover">
+                      <img src="images/donat-blue.png" class="techVerse_hero_icon1 animation11" alt="" />
+                      <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
+                      <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
+                  </div>
+                  <img src="images/hero-slider-img-3.webp" class="hero-img-3" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
               </div>
             </div>
@@ -110,13 +154,13 @@
       <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
       <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
   </div>
-  <div class="techVerse_aboutContent">
+  <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/laptop.png" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/laptop.webp" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
               <img src="images/laptop-Frame.png" class="laptop-Frame" data-aos="fade-left" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
@@ -274,7 +318,7 @@
 </section>
 
 <!-- Portfolio -->
-<section class="techVerse_portfolio particles-js">
+<section class="techVerse_portfolio">
   <div class="techVerse_portfolioContent width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -331,68 +375,10 @@
               </div>
             </div>
             <div class="tab-pane fade" id="website-tab" role="tabpanel" aria-labelledby="websites_tab">
-              <div class="web_app_carousel">
-                <div class="swiper webAppCarousel">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                  </div>
-                </div>
-                <div class="our-slider-webframe">
-                  <img src="images/Macbook.png" alt="" />
-                </div>
-              </div>
+                <?php include('./layout/web-carousel.php') ?>
             </div>
             <div class="tab-pane fade" id="cms-tab" role="tabpanel" aria-labelledby="cms_tab">
-              <div class="web_app_carousel">
-                <div class="swiper webAppCarousel">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <img src="images/Cms-1.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/CMS-2.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/CMS-3.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/Cms-1.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/CMS-2.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/CMS-3.png" alt="" />
-                    </div>
-                  </div>
-                </div>
-                <div class="our-slider-webframe">
-                  <img src="images/Macbook.png" alt="" />
-                </div>
-              </div>
+                <?php include('./layout/cms-carousel.php') ?>
             </div>
           </div>
         </div>
@@ -429,16 +415,41 @@
             </p>
           </div>
         </div>
+        <!-- New -->
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/irving-segal-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/irving-segal-img.png" alt="" />
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/brain-carlisle-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/brain-carlisle-img.png" alt="" />
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/angle-body-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/angle-body-img.png" alt="" />
+          </div>
+        </div>
+        <!--<div class="col-lg-4 col-md-6">-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/frame-with-photo-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">-->
+        <!--    <img src="images/frame-with-photo-img.png" alt="" />-->
+        <!--  </div>-->
+        <!--</div>-->
+        
+        
+        
+        <!-- Old -->
+        <div class="col-lg-4 col-md-6">
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
             <img src="images/p1.png" alt="" />
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-            <img src="images/p2.png" alt="" />
-          </div>
-        </div>
+        <!--<div class="col-lg-4 col-md-6">-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
+        <!--    <img src="images/p2.png" alt="" />-->
+        <!--  </div>-->
+        <!--</div>-->
         <div class="col-lg-4 col-md-6">
           <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p3-bg.png);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">
             <img src="images/p3.png" alt="" />
@@ -449,16 +460,16 @@
             <img src="images/p4.png" alt="" />
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p5-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-            <img src="images/p5.png" alt="" />
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p6-bg.png);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">
-            <img src="images/p6.png" alt="" />
-          </div>
-        </div>
+        <!--<div class="col-lg-4 col-md-6">-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p5-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
+        <!--    <img src="images/p5.png" alt="" />-->
+        <!--  </div>-->
+        <!--</div>-->
+        <!--<div class="col-lg-4 col-md-6">-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p6-bg.png);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">-->
+        <!--    <img src="images/p6.png" alt="" />-->
+        <!--  </div>-->
+        <!--</div>-->
       </div>
     </div>
   </div>

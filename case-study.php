@@ -23,7 +23,7 @@
                   data-aos-offset="0"
                   data-aos-duration="2000"
                 >
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,  
+                We pride ourselves on delivering innovative solutions that drive business growth and enhance digital presence. Our case studies exemplify our commitment to excellence and showcase how we have helped businesses across various industries achieve their goals through personalized technological solutions.  
                 </p>
                 <div class="techVerse_hero_btns justify-content-center" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
@@ -59,7 +59,7 @@
     </section>
     
     <!-- Case Study Sec 1 -->
-    <section class="case-study-sec case-study-sec1" style="background-image: url(images/case-study-sec111-bg.png);">
+    <section class="case-study-sec case-study-sec1" style="background-image: url(images/case-study-sec111-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -73,7 +73,7 @@
                                     ANGEL BODY - ECOMMERCE APP
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                    Techverse LLC partnered with a growing e-commerce brand that specializes in personalized gifts and accessories. The client aimed to expand its online presence, improve customer engagement, and streamline its operations through a custom-built e-commerce app.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_black">
@@ -104,7 +104,7 @@
     
     
     <!-- Case Study Sec 2 -->
-    <section class="case-study-sec case-study-sec2" style="background-image: url(images/case-study-sec222-bg.png);">
+    <section class="case-study-sec case-study-sec2" style="background-image: url(images/case-study-sec222-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -118,7 +118,7 @@
                                     Brian Carlisle - Book Author App
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                    Techverse LLC, a leading mobile app development company, was approached by a budding author who sought to create a revolutionary tool for fellow writers. The client envisioned an intuitive mobile application that would streamline the writing process from ideation to publication. This app aims to empower authors with robust features for brainstorming, drafting, editing, and publishing their literary works seamlessly.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_white">
@@ -148,7 +148,7 @@
     </section>
     
     <!-- Case Study Sec 3 -->
-    <section class="case-study-sec case-study-sec3" style="background-image: url(images/case-study-sec3-bg.png);">
+    <section class="case-study-sec case-study-sec3" style="background-image: url(images/case-study-sec3-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -162,7 +162,7 @@
                                     Brian Carlisle - Book Author App
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                    Techverse LLC, a leading mobile app development company, collaborated with a client to develop a cutting-edge van services app aimed at transforming the logistics and transportation industry. The client, a startup in the logistics sector, recognized the growing need for efficient, reliable, and tech-driven solutions to streamline van services for businesses and consumers alike.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_black">
@@ -187,7 +187,7 @@
     </section>
     
     <!-- Case Study Sec 4 -->
-    <section class="case-study-sec case-study-sec4" style="background-image: url(images/case-study-sec4-bg.png);">
+    <section class="case-study-sec case-study-sec4" style="background-image: url(images/case-study-sec4-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -201,7 +201,7 @@
                                     Brian Carlisle - Book Author App
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                    The client, a prominent hair salon chain with multiple locations across urban centers, sought to enhance customer experience and streamline operations through digital innovation. Their goal was to leverage technology to attract and retain customers while optimizing internal processes.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_black">
@@ -226,7 +226,7 @@
     </section>
     
     <!-- Case Study Sec 5 -->
-    <section class="case-study-sec case-study-sec5" style="background-image: url(images/case-study-sec5-bg.png);">
+    <section class="case-study-sec case-study-sec5" style="background-image: url(images/case-study-sec5-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -240,7 +240,7 @@
                                     ANGEL BODY - ECOMMERCE APP
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                   This business is a dynamic startup aiming to revolutionize the eyewear industry by offering personalized, high-quality frames directly to consumers through an innovative eCommerce platform. They envisioned an intuitive app that would enhance user experience and streamline the process of selecting and purchasing eyewear online.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_black">
@@ -265,7 +265,7 @@
     </section>
     
     <!-- Case Study Sec 6 -->
-    <section class="case-study-sec case-study-sec6" style="background-image: url(images/case-study-sec666-bg.png);">
+    <section class="case-study-sec case-study-sec6" style="background-image: url(images/case-study-sec666-bg.webp);">
         <!--<div class="case-study-bg-img">-->
         <!--    <img src="images/case-study-sec1-bg.png" alt="">-->
         <!--</div>-->
@@ -279,7 +279,7 @@
                                     ANGEL BODY - ECOMMERCE APP
                                 </h2>
                                 <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                                    Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+                                    Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
                                 </p>
                                 <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                                   <a href="#" class="btn_with_icon btn_black">

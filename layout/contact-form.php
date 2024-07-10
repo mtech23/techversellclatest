@@ -4,7 +4,7 @@
       <div class="col-lg-5 contact-laptopBG">
         <div class="contactLaptop-outer">
           <div class="techVerse-contact-img" data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-            <img src="images/contactUs-laptop.png" class="contactUs-laptop" alt="" />
+            <img src="images/contactUs-laptop.webp" class="contactUs-laptop" alt="" />
           </div>
           <div class="icon-container-hover">
               <img src="images/SuperToroid-Orange-Glossy.png" class="techVerse-contact-imgIcon animation11" alt="" />

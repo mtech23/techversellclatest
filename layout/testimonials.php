@@ -68,74 +68,109 @@
               <p>Lorem Ipsum is simply dummy</p>
             </div>
             <div class="content" id="tab3">
-              <button class="play-icon" data-toggle="modal" data-target="#exampleModal">
-                <i class="fa-solid fa-play"></i>
-              </button>
-              <p>
-                There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which don't
-                look even slightly believable. If you are going to use a
-                passage of Lorem Ipsum, you need to be sure there isn't
-                anything embarrassing hidden in the middle of text. All the.
-              </p>
-              <p>Tab 3</p>
+              <!--<button class="play-icon" data-toggle="modal" data-target="#exampleModal">-->
+              <!--  <i class="fa-solid fa-play"></i>-->
+              <!--</button>-->
+              <!--<p>-->
+              <!--  There are many variations of passages of Lorem Ipsum-->
+              <!--  available, but the majority have suffered alteration in some-->
+              <!--  form, by injected humour, or randomised words which don't-->
+              <!--  look even slightly believable. If you are going to use a-->
+              <!--  passage of Lorem Ipsum, you need to be sure there isn't-->
+              <!--  anything embarrassing hidden in the middle of text. All the.-->
+              <!--</p>-->
+              <!--<p>Tab 3</p>-->
+              <div class="rc">
+                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
+              </video>
+              </div>
+              <h2>David Ruffer</h2>
+              <p>Lorem Ipsum is simply dummy</p>
             </div>
             <div class="content" id="tab4">
-              <button class="play-icon" data-toggle="modal" data-target="#exampleModal">
-                <i class="fa-solid fa-play"></i>
-              </button>
-              <p>
-                There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which don't
-                look even slightly believable. If you are going to use a
-                passage of Lorem Ipsum, you need to be sure there isn't
-                anything embarrassing hidden in the middle of text. All the.
-              </p>
-              <p>Tab 4</p>
+              <!--<button class="play-icon" data-toggle="modal" data-target="#exampleModal">-->
+              <!--  <i class="fa-solid fa-play"></i>-->
+              <!--</button>-->
+              <!--<p>-->
+              <!--  There are many variations of passages of Lorem Ipsum-->
+              <!--  available, but the majority have suffered alteration in some-->
+              <!--  form, by injected humour, or randomised words which don't-->
+              <!--  look even slightly believable. If you are going to use a-->
+              <!--  passage of Lorem Ipsum, you need to be sure there isn't-->
+              <!--  anything embarrassing hidden in the middle of text. All the.-->
+              <!--</p>-->
+              <!--<p>Tab 4</p>-->
+              <div class="rc">
+                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
+              </video>
+              </div>
+              <h2>David Ruffer</h2>
+              <p>Lorem Ipsum is simply dummy</p>
             </div>
             <div class="content" id="tab5">
-              <button class="play-icon" data-toggle="modal" data-target="#exampleModal">
-                <i class="fa-solid fa-play"></i>
-              </button>
-              <p>
-                There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which don't
-                look even slightly believable. If you are going to use a
-                passage of Lorem Ipsum, you need to be sure there isn't
-                anything embarrassing hidden in the middle of text. All the.
-              </p>
-              <p>Tab 5</p>
+              <!--<button class="play-icon" data-toggle="modal" data-target="#exampleModal">-->
+              <!--  <i class="fa-solid fa-play"></i>-->
+              <!--</button>-->
+              <!--<p>-->
+              <!--  There are many variations of passages of Lorem Ipsum-->
+              <!--  available, but the majority have suffered alteration in some-->
+              <!--  form, by injected humour, or randomised words which don't-->
+              <!--  look even slightly believable. If you are going to use a-->
+              <!--  passage of Lorem Ipsum, you need to be sure there isn't-->
+              <!--  anything embarrassing hidden in the middle of text. All the.-->
+              <!--</p>-->
+              <!--<p>Tab 5</p>-->
+              <div class="rc">
+                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
+              </video>
+              </div>
+              <h2>David Ruffer</h2>
+              <p>Lorem Ipsum is simply dummy</p>
             </div>
             <div class="content" id="tab6">
-              <button class="play-icon" data-toggle="modal" data-target="#exampleModal">
-                <i class="fa-solid fa-play"></i>
-              </button>
-              <p>
-                There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which don't
-                look even slightly believable. If you are going to use a
-                passage of Lorem Ipsum, you need to be sure there isn't
-                anything embarrassing hidden in the middle of text. All the.
-              </p>
-              <p>Tab 6</p>
+              <!--<button class="play-icon" data-toggle="modal" data-target="#exampleModal">-->
+              <!--  <i class="fa-solid fa-play"></i>-->
+              <!--</button>-->
+              <!--<p>-->
+              <!--  There are many variations of passages of Lorem Ipsum-->
+              <!--  available, but the majority have suffered alteration in some-->
+              <!--  form, by injected humour, or randomised words which don't-->
+              <!--  look even slightly believable. If you are going to use a-->
+              <!--  passage of Lorem Ipsum, you need to be sure there isn't-->
+              <!--  anything embarrassing hidden in the middle of text. All the.-->
+              <!--</p>-->
+              <!--<p>Tab 6</p>-->
+              <div class="rc">
+                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
+              </video>
+              </div>
+              <h2>David Ruffer</h2>
+              <p>Lorem Ipsum is simply dummy</p>
             </div>
             <div class="content" id="tab7">
-              <button class="play-icon" data-toggle="modal" data-target="#exampleModal">
-                <i class="fa-solid fa-play"></i>
-              </button>
-              <p>
-                There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which don't
-                look even slightly believable. If you are going to use a
-                passage of Lorem Ipsum, you need to be sure there isn't
-                anything embarrassing hidden in the middle of text. All the.
-              </p>
-              <p>Tab 7</p>
+              <!--<button class="play-icon" data-toggle="modal" data-target="#exampleModal">-->
+              <!--  <i class="fa-solid fa-play"></i>-->
+              <!--</button>-->
+              <!--<p>-->
+              <!--  There are many variations of passages of Lorem Ipsum-->
+              <!--  available, but the majority have suffered alteration in some-->
+              <!--  form, by injected humour, or randomised words which don't-->
+              <!--  look even slightly believable. If you are going to use a-->
+              <!--  passage of Lorem Ipsum, you need to be sure there isn't-->
+              <!--  anything embarrassing hidden in the middle of text. All the.-->
+              <!--</p>-->
+              <!--<p>Tab 7</p>-->
+              <div class="rc">
+                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
+              </video>
+              </div>
+              <h2>David Ruffer</h2>
+              <p>Lorem Ipsum is simply dummy</p>
             </div>
           </div>
         </div>

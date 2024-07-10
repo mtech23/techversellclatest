@@ -143,7 +143,7 @@
                 <div class="techVerse_about_img">
                   <div class="techVerse_about_laptop_img">
                     <img
-                    src="images/about-img1.png"
+                    src="images/about-img1.webp"
                       class="about-laptopImg business-devlopmentImg about-page-img1"
                       data-aos="fade-right"
                       data-aos-offset="0"
@@ -246,7 +246,7 @@
                   <div class="techVerse_about_img">
                     <div class="techVerse_about_laptop_img">
                       <img
-                        src="images/about-img2.png"
+                        src="images/about-img2.webp"
                         class="about-laptopImg about-page-img2"
                         data-aos="fade-right"
                         data-aos-offset="0"

@@ -55,7 +55,7 @@
             <div class="col-md-6 inner-hero_rightCol">
               <div class="inner_hero_img">
                 <img
-                    src="images/Ecommerce-development-hero.png"
+                    src="images/Ecommerce-development-hero.webp"
                     data-aos="fade-left"
                     data-aos-offset="0"
                     data-aos-duration="3000"
@@ -150,7 +150,7 @@
                 <div class="techVerse_about_img">
                   <div class="techVerse_about_laptop_img">
                     <img
-                    src="images/ecommerce-about-1.png"
+                    src="images/ecommerce-about-1.webp"
                       class="about-laptopImg business-devlopmentImg"
                       data-aos="fade-right"
                       data-aos-offset="0"
@@ -219,7 +219,7 @@
                   <div class="techVerse_about_img">
                     <div class="techVerse_about_laptop_img">
                       <img
-                        src="images/ecommerce-img-01.png"
+                        src="images/ecommerce-img-01.webp"
                         class="build-store-img"
                         data-aos="fade-right"
                         data-aos-offset="0"

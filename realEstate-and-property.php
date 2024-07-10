@@ -90,7 +90,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/real-estate-img1.png" class="business-devlopmentImg real-estate-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/real-estate-img1.webp" class="business-devlopmentImg real-estate-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -209,39 +209,7 @@
               </div>
             </div>
             <div class="tab-pane fade" id="website-tab" role="tabpanel" aria-labelledby="websites_tab">
-              <div class="web_app_carousel">
-                <div class="swiper webAppCarousel">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/car-buying.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/jeff-wilson.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/lll-reptile.png" alt="" />
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="images/private-astrology.png" alt="" />
-                    </div>
-                  </div>
-                </div>
-                <div class="our-slider-webframe">
-                  <img src="images/Macbook.png" alt="" />
-                </div>
-              </div>
+              <?php include('./layout/web-carousel.php') ?>
             </div>
 
           </div>
@@ -276,7 +244,7 @@
         <div class="col-lg-5">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img ">
-              <img src="images/realEstate-img-3.png" class="mobile-app-22" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/realEstate-img-3.webp" class="mobile-app-22" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>

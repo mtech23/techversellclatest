@@ -33,7 +33,7 @@
         </div>
         <div class="col-md-6 inner-hero_rightCol">
           <div class="inner_hero_img">
-            <img src="images/web-development-hero.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" class="web-development_hero_img" alt="" />
+            <img src="images/web-development-hero.webp" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" class="web-development_hero_img" alt="" />
           </div>
         </div>
       </div>
@@ -84,7 +84,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/web-img-01.png" class="webDev-img-1 business-devlopmentImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/web-img-01.webp" class="webDev-img-1 business-devlopmentImg mb-736" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
