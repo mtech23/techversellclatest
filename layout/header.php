@@ -69,7 +69,7 @@
                             </span>
                             <span class="icon_list_text">info@techversellc.com</span>
                         </a>
-                        
+
                     </li>
                 </ul>
             </div>
@@ -104,7 +104,7 @@
                                         <li>
                                             <div class="dropdown_linkBox">
                                                 <a href="mobile-app.php" />
-                                                    <h4>Mobile Application Development</h4>
+                                                <h4>Mobile Application Development</h4>
                                                 </a>
                                                 <p>Custom Mobile App Development</p>
                                             </div>
@@ -175,7 +175,7 @@
                                 <!--        </li>-->
                                 <!--    </ul>-->
                                 <!--</div>-->
-                                
+
                             </div>
                         </div>
                     </div>
@@ -244,10 +244,10 @@
 
                         <div class="dropdown_content">
                             <div class="row">
-                                
+
                                 <div class="col-md-6 col-xl-4">
                                     <ul class="custom_dropdown_list">
-                                       
+
                                         <li>
                                             <div class="dropdown_linkBox">
                                                 <a href="realEstate-and-property.php">
@@ -285,7 +285,7 @@
                                 </div>
                                 <div class="col-md-6 col-xl-4">
                                     <ul class="custom_dropdown_list">
-                                       
+
                                         <li>
                                             <div class="dropdown_linkBox">
                                                 <a href="education-hr.php">
@@ -323,7 +323,7 @@
                                 </div>
                                 <div class="col-md-6 col-xl-4">
                                     <ul class="custom_dropdown_list">
-                                       
+
                                         <li>
                                             <div class="dropdown_linkBox">
                                                 <a href="media.php">
@@ -351,7 +351,7 @@
                                     </ul>
 
                                 </div>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -410,3 +410,69 @@
 
 
     </section>
+
+    <div class="modal fade bd-example-modal-lg popup_modal" id="popup_modal_id" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <!-- <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div> -->
+                <div class="modal-body">
+                    <button type="button" class="close popup_modal-close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <div class="popUp_img"><img src="images/sports-img-3.webp" alt=""></div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="popUp_content">
+                                    <div class="popUp_title">
+                                        <h2 class="popUp_title_head color-white">
+                                            Sign Up Now To Get A Free Quote! Upto 50% Off For Limited Time
+                                            <!-- <span class="color-lightBlue2">Choose</span> Us? -->
+                                        </h2>
+                                    </div>
+                                    <div class="popUp_form">
+                                        <form>
+                                            <div class="input-group mb-3">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-user" aria-hidden="true"></i></span>
+                                                </div>
+                                                <input type="text" class="form-control" placeholder="Name">
+                                            </div>
+                                            <div class="input-group mb-3">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                                                </div>
+                                                <input type="email" class="form-control" placeholder="Email Here">
+                                            </div>
+                                            <div class="input-group mb-3">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                                                </div>
+                                                <input type="email" class="form-control" placeholder="Phone Number">
+                                            </div>
+                                            <div class="input-group">
+                                                <div class="input-group-prepend">
+                                                    <span class="input-group-text"><i class="fa fa-comment" aria-hidden="true"></i></span>
+                                                </div>
+                                                <textarea class="form-control" aria-label="With textarea" placeholder="Message"></textarea>
+                                            </div>
+                                            <button type="button" class="btn_with_icon popUp_form_btn">
+                                                <!-- <img class="btn_with_icon_img" src="images/phone-icon.png" alt=""> -->
+                                                <span class="btn_with_icon_text">Request A Quote</span>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

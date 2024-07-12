@@ -9,11 +9,11 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Premium
-              <span class="color-lightBlue1">Mobile App</span> Development Solutions For Healthcare Agencies
+              Techverse Optimizes
+              <span class="color-lightBlue1"> Healthcare </span>Delivery for Patients & Professionals.
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              Enhance patient care and optimize operations with our state-of-the-art healthcare mobile apps.
+              Techverse empowers both patients and healthcare professionals through innovative mobile applications. Our secure and user-friendly apps streamline workflows, improve patient interaction, and guarantee adherence to healthcare regulations. We craft specialized solutions that boost patient outcomes and optimize healthcare delivery, all while prioritizing strong data security measures. Partner with Techverse to revolutionize the way healthcare is delivered.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -42,16 +42,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 health-care-abt1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -66,11 +66,11 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                  Perfectly Curated Mobile Applications For The
-                <span class="color-lightBlue2">Entertainment Industry</span>
+                From Patient Engagement to Research, Techverse Develops
+                <span class="color-lightBlue2"> Healthcare Solutions</span>
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We offer cutting-edge mobile app development solutions to transform the media and entertainment industry. Our team of experts creates unique, high-performance mobile apps that provide a seamless user experience to your audience.
+                Techverse is an expert in creating all-inclusive medical solutions. Our customized apps improve patient care, speed up procedures, and guarantee that industry norms are followed. By emphasizing efficiency and creativity, we enable healthcare providers to provide better services and increase patient outcomes.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -101,20 +101,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Techverse Offer Secure and Effective
+          <span class="color-darkBlue1"> Healthcare Apps</span>
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          At Techverse LLC, we're experts at developing innovative healthcare applications that improve workflows, improve patient outcomes, and guarantee regulatory compliance in that sector. Join forces with us to create cutting-edge mobile apps.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Utilize advanced analytics to interpret healthcare data, enabling informed decision-making and strategic planning for healthcare providers and administrators.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>Craft user-centric interfaces that optimize usability and accessibility, enhancing engagement and satisfaction among healthcare professionals and patients.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>Create scalable and innovative healthcare applications designed to improve patient care delivery, operational efficiency, and healthcare service management.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Implement comprehensive testing strategies to validate the functionality, security, and regulatory compliance of healthcare apps, ensuring reliability and user safety.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -138,20 +177,52 @@
         <div class="col-lg-6">
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
-              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">App Development For The 
-                <span class="color-lightBlue2">Entertainment Industry</span>
+              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <span class="color-lightBlue2">Healthcare </span>On The Move Techverse Apps Empower Professional Patients
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We follow a streamlined approach to ensure customer satisfaction by delivering customized real estate mobile app development solutions.
+                Techverse apps empower healthcare professionals and patients with innovative solutions. From increased patient care to streamlined operations, our apps ensure mobility and efficiency in delivering healthcare services.
               </p>
             </div>
           </div>
-          <?php include('./layout/business-analysis.php') ?>
+          <?php
+          // include('./layout/business-analysis.php') 
+          ?>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <h4>Business Analysis</h4>
+                <p>Conduct in-depth evaluations to align healthcare app development with organizational strategies and user requirements, ensuring solutions that effectively address industry challenges and boost operational workflows.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <h4>Design & Development</h4>
+                <p>Leveraging the latest technological advancements, create innovative interfaces and robust healthcare solutions designed to optimize patient interaction and streamline administrative processes.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <h4>Quality Assurance</h4>
+                <p>Implement stringent testing protocols to validate the functionality, security, and regulatory compliance of healthcare apps, ensuring seamless performance and user satisfaction.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <h4>Deployment and Maintenance</h4>
+                <p>Facilitate smooth app deployment and provide ongoing maintenance and updates to ensure optimal performance, security, and scalability, effectively meeting evolving healthcare needs.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -166,7 +237,7 @@
               <span class="color-darkBlue">PORTFOLIO</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              Our Company has worked with thousands of businesses all across the world and has developed highly functional, responsive, and feature-rich applications. Check out some of our best works:
+              Our Health & Life Science portfolio showcases innovative mobile apps and responsive websites that improve healthcare delivery, patient engagement, and operational efficiency worldwide.
             </p>
           </div>
         </div>
@@ -231,26 +302,26 @@
 
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-darkBlue">Why Choose Our</span> Media & Entertainment <span class="color-darkBlue">App Development Service</span>
+              <span class="color-darkBlue">Why Choose Our</span> HEALTH & LIFE SCIENCE <span class="color-darkBlue">App Development Service?</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              When you choose Blitz Mobile Apps for your media and entertainment mobile app development needs, you can expect:
+              With our professional app development experience in the health and life sciences sector, you can improve patient care and operational effectiveness.
             </p>
           </div>
         </div>
@@ -267,49 +338,49 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Advanced Research Capabilities</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
-                  <h4>Customized Solutions</h4>
+                  <h4>Streamlined Clinical Workflows</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
-                  <h4>Real-Time Property Listings</h4>
+                  <h4>Interoperability Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
-                  <h4>Secure Payment Integration</h4>
+                  <h4>Telehealth Integration</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
-                  <h4>Virtual Property Tours</h4>
+                  <h4>Compliance with Emerging Technologies</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Personalized Medicine Initiatives</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Continuous Support and Maintenance</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Data Privacy Assurance</h4>
                 </div>
               </div>
             </div>
@@ -318,7 +389,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

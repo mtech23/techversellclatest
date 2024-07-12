@@ -8,12 +8,12 @@
       <div class="row">
         <div class="col-md-6">
           <div class="inner_hero_content">
-            <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">                 
-                Creating Digital Waves 
-                <span class="color-lightBlue1">In</span> Media & Entertainment!
+            <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+              Techverse Redefines
+              <span class="color-lightBlue1"> Media & Entertainment </span>with Innovative Apps
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              At Techverse LLC, we specialize in revolutionizing the Media & Entertainment industry through innovative solutions. Our expertise in this dynamic niche allows us to craft strategies that captivate audiences, amplify brand presence, and drive engagement across various platforms.
+              Techverse LLC offers premier mobile app development solutions for media and entertainment agencies aimed at boosting audience engagement and streamlining operations. Our state-of-the-art apps boost user interaction, improve workflows, and ensure compliance with industry regulations. With customized solutions featuring intuitive interfaces and robust security measures, we improve user experiences and optimize media delivery.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -53,16 +53,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 media-abt1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -77,11 +77,11 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-white" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                  Why 
-                <span class="color-lightBlue2">Choose</span> Us?
+                Enhancing
+                <span class="color-lightBlue2"> Content and Audience Interaction </span>with Techverse Solutions
               </h2>
               <p class="color-white" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                At Techverse LLC, we understand the unique dynamics and fast-paced nature of the media and entertainment industry. Our services of this niche, ensuring your brand stands out in a crowded market. Here's why Techverse LLC should be your go-to partner:
+                Techverse LLC specializes in creating mobile applications designed for the media and entertainment sector. Our advanced app development services boost audience engagement, streamline content management, and support efficient media operations. We focus on delivering apps that prioritize efficiency and adhere to industry standards, providing user-friendly interfaces and secure data management.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -112,20 +112,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Secure and Efficient
+          <span class="color-darkBlue1"> Media </span>Apps by Techverse
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          At Techverse LLC, we are experts in developing innovative applications that boost workflows, improve user experiences, and ensure regulatory compliance in the media industry. Collaborate with us to create advanced mobile apps customized for your specific needs.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Gain valuable insights into media metrics and audience behavior to make informed decisions and boost operational efficiency.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>Design user-friendly interfaces that boost the user experience, making navigation easy and engaging for media professionals and audiences.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>From initial concept to deployment, we create robust and secure media applications that streamline workflows and boost content delivery.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Conduct rigorous testing to ensure reliability, security, and compliance with industry standards, guaranteeing smooth functionality across platforms.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -149,20 +188,53 @@
         <div class="col-lg-6">
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
-              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">App Development For The 
-                <span class="color-lightBlue2">Entertainment Industry</span>
+              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Techverse Paves the Way for the Future of
+                <span class="color-lightBlue2">Entertainment</span>
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We follow a streamlined approach to ensure customer satisfaction by delivering customized real estate mobile app development solutions.
+                Techverse LLC's app development for the media and entertainment sector focuses on creating scalable, secure applications designed to meet the needs of audiences and media professionals. We integrate cutting-edge technology into our solutions to boost operational efficiency and service delivery.
               </p>
             </div>
           </div>
-          <?php include('./layout/business-analysis.php') ?>
+          <?php
+          // include('./layout/business-analysis.php') 
+          ?>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <h4>Business Analysis</h4>
+                <p>We perform detailed analyses to align media app development with organizational goals and audience needs, ensuring effective solutions from start to finish.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <h4>Design & Development</h4>
+                <p>Our team designs intuitive interfaces and develops robust media solutions, leveraging advanced technologies to boost audience engagement and operational efficiency.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <h4>Quality Assurance</h4>
+                <p>We implement thorough testing to ensure our media apps meet high standards for security, performance, and regulatory compliance, providing reliable and safe user experiences.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <h4>Deployment and Maintenance</h4>
+                <p>We manage seamless deployment and provide ongoing maintenance to ensure media apps remain secure, efficient, and adaptable to changing demands.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -173,11 +245,11 @@
         <div class="col-md-12">
           <div class="sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              Our Media & Entertainment 
+              Media & Entertainment
               <span class="color-darkBlue">PORTFOLIO</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              With a deep understanding of industry trends and audience engagement, we offer a suite of services designed to raise your brand presence and amplify audience connection.
+              Our Media & Entertainment portfolio showcases innovative mobile apps and responsive websites that boost media delivery, audience engagement, and operational efficiency worldwide.
             </p>
           </div>
         </div>
@@ -242,26 +314,26 @@
 
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-darkBlue">Why Choose Our</span> Media & Entertainment <span class="color-darkBlue">App Development Service</span>
+              <span class="color-darkBlue">Why Choose Our</span> MEDIA & ENTERTAINMENT <span class="color-darkBlue">App Development Services?</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              When you choose Blitz Mobile Apps for your media and entertainment mobile app development needs, you can expect:
+              With our extensive experience in app development for the media and entertainment sector, you can boost audience engagement and operational efficiency.
             </p>
           </div>
         </div>
@@ -278,49 +350,49 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Immersive user experiences</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
-                  <h4>Customized Solutions</h4>
+                  <h4>Enhanced content distribution</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
-                  <h4>Real-Time Property Listings</h4>
+                  <h4>Real-time audience engagement</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
-                  <h4>Secure Payment Integration</h4>
+                  <h4>Scalable streaming solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
-                  <h4>Virtual Property Tours</h4>
+                  <h4>Personalized content recommendations</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Secure digital rights management</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Monetization opportunities</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Integration with social media platforms</h4>
                 </div>
               </div>
             </div>
@@ -329,7 +401,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

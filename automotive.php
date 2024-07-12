@@ -9,11 +9,11 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Accelerate Your Brand with Techverse
-              <span class="color-lightBlue1">Automotive</span> Digital Domination
+              Leave the Competition in the Dust. Get Started with Techverse
+              <span class="color-lightBlue1"> Automotive </span>Now!
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              At Techverse LLC, we specialize in propelling automotive and transport businesses to new heights through cutting-edge digital marketing strategies. Our personalized method ensures your brand stands out in the competitive automotive landscape, reaching the right audience at the right time.
+              A solid online presence is essential for maintaining one step ahead of the competition in the quick-paced automobile sector. Modern solutions from Techverse Automotive Digital Domination are designed to improve your brand. We make sure your business shines out with creative marketing techniques, thorough analytics, and individualized consumer engagement tools. Use technology to your advantage to boost sales, become more visible, and create enduring relationships with your clients. Techverse is the intersection of automotive quality with technology, and it can help you build your business faster.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -53,16 +53,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -77,11 +77,11 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Why  
+                Why
                 <span class="color-lightBlue2">Choose</span> Us?
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                With a deep understanding of industry complexities, we deliver cutting-edge software, IoT solutions, and mobile applications that seamlessly integrate into your operations. Our commitment to excellence ensures reliable support and proactive maintenance, empowering your business to stay ahead in a rapidly evolving landscape.
+                At Techverse LLC, we combine innovation, expertise, and a client-centric approach to deliver exceptional digital solutions. Our team excels in mobile and web development, digital marketing, and ongoing support. We customize our services to meet your unique needs, ensuring measurable results and complete satisfaction.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -112,20 +112,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Engage Customers with Unique
+          <span class="color-darkBlue1"> Transportation </span>App Solutions
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          Improve your transportation and automotive business with personalized app solutions. With our customized app development services, you may increase productivity, increase consumer engagement, and simplify operations.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Unlock valuable insights in the automotive and transport industry with our analytics and reporting services. Monitor fleet performance, customer behavior, and operational efficiency to make informed decisions and drive growth.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>boost user experience with our specialized UI/UX design services for the automotive and transport sectors. We create intuitive, visually appealing interfaces that improve customer engagement and satisfaction.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>Transform your automotive and transport business with our custom app development solutions. Our apps streamline operations, boost productivity, and boost customer service, ensuring your business stays ahead of the competition.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Ensure the highest quality for your automotive and transport applications with our rigorous testing and QA services. We identify and fix issues to deliver reliable, efficient, and user-friendly solutions.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -162,7 +201,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -173,11 +212,11 @@
         <div class="col-md-12">
           <div class="sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              Automotive and Transport 
+              Automotive and Transport
               <span class="color-darkBlue">Portfolio</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              At Techverse LLC, we specialize in delivering cutting-edge solutions tailored for the Automotive and Transport industry. With a understanding of the sector's unique challenges and opportunities, we provide innovative services that drive efficiency, safety, and customer satisfaction.
+              Explore our diverse portfolio showcasing successful automotive and transport app solutions. Each project highlights our expertise in enhancing efficiency, user experience, and operational excellence designed to industry needs.
             </p>
           </div>
         </div>
@@ -231,13 +270,13 @@
             </div>
             <div class="tab-pane fade" id="website-tab" role="tabpanel" aria-labelledby="websites_tab">
               <?php include('./layout/web-carousel.php') ?>
-              </div>
             </div>
-
           </div>
+
         </div>
       </div>
     </div>
+  </div>
   </div>
 </section>
 
@@ -245,14 +284,14 @@
 <section class="techVerse_about techVerse_aboutServices2 drivingSec hoverEffectSec">
   <div class="drivingSec_innerBG"></div>
   <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -260,7 +299,7 @@
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-white">Enhancing Your</span> Driving Experience <span class="color-white">Like Never Before</span>
+              <span class="color-white">Beyond the Wheel A Revolution in </span> Driving <span class="color-white">Experiences</span>
             </h2>
           </div>
         </div>
@@ -277,49 +316,49 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Seamless Connectivity</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
-                  <h4>Customized Solutions</h4>
+                  <h4>Advanced Navigation</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
-                  <h4>Real-Time Property Listings</h4>
+                  <h4>Personalized Settings</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
-                  <h4>Secure Payment Integration</h4>
+                  <h4>Real-Time Updates</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
-                  <h4>Virtual Property Tours</h4>
+                  <h4>Improve Safety</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Voice Control</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Smart Diagnostics</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Effortless Maintenance</h4>
                 </div>
               </div>
             </div>
@@ -328,7 +367,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

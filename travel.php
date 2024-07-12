@@ -9,11 +9,11 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Redefining Travelling Experience For Your Clients
-              <!--<span class="color-lightBlue1"></span>-->
+              From Click to Content Guest with Techverse Apps
+              <span class="color-lightBlue1">Revolutionize Hospitality</span>
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              Creating a seamless and personalized experience for travelers with our innovative travel mobile app solutions.
+              Techverse LLC's advanced mobile app solutions are revolutionizing the hospitality sector. With our cutting-edge apps, you can guarantee compliance, improve visitor experiences, and streamline operations. We provide customized solutions that improve service delivery and maximize operational efficiency, from user-friendly interfaces to solid security. Use Techverse to transform your hospitality offerings.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -42,16 +42,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 travel-abt1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -67,11 +67,11 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                  Perfectly Curated Mobile Applications For The
-                <span class="color-lightBlue2">Entertainment Industry</span>
+                From Guest Engagement to Operations, Techverse Develops
+                <span class="color-lightBlue2"> Hospitality </span>Solutions
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We offer cutting-edge mobile app development solutions to transform the media and entertainment industry. Our team of experts creates unique, high-performance mobile apps that provide a seamless user experience to your audience.
+                Techverse LLC is an expert in creating mobile apps specifically for the lodging sector. Our products promote effective service delivery, optimize operations, and improve visitor engagement. We place a high priority on efficacy and adherence to industry standards to guarantee user-friendly interfaces and secure data handling. Join Techverse to take advantage of cutting-edge app development services that improve visitor pleasure and streamline your hotel operations. With Techverse, discover the hospitality of the future.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -102,20 +102,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Techverse Offers Secure and Effective
+          <span class="color-darkBlue1"> Hospitality </span>Apps
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          Techverse LLC provides secure, efficient hospitality apps that boost guest experiences and streamline operations. Our advanced solutions ensure compliance and optimize service delivery for the hospitality industry.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Gain valuable insights into guest behaviors and operational metrics to drive informed decisions and improve efficiency within your travel and hospitality business.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>Create intuitive and visually appealing interfaces that boost user experience, ensuring easy navigation and increased engagement for both guests and staff.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>From initial concept to final deployment, develop robust and secure travel and hospitality applications that streamline workflows and increase service delivery.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Implement comprehensive testing protocols to ensure reliability, security, and compliance with industry standards, guaranteeing seamless functionality across all platforms.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 travel-abt2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -140,20 +179,52 @@
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                  App Development For The
-                <span class="color-lightBlue2">Entertainment Industry</span>
+                Techverse Builds Scalable Apps for
+                <span class="color-lightBlue2">Guests & Businesses</span>
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We follow a streamlined approach to ensure customer satisfaction by delivering customized real estate mobile app development solutions.
+                Techverse LLC develops scalable apps for the travel and hospitality industry, enhancing guest experiences and streamlining business operations. Our innovative solutions ensure efficiency, security, and compliance for optimal service delivery.
               </p>
             </div>
           </div>
-          <?php include('./layout/business-analysis.php') ?>
+          <?php
+          // include('./layout/business-analysis.php') 
+          ?>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <h4>Business Analysis</h4>
+                <p>Conduct thorough analyses to align app development with your travel and hospitality goals, ensuring effective solutions from inception to deployment.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <h4>Design & Development</h4>
+                <p>Create intuitive interfaces and robust applications using advanced technologies to boost guest experiences and operational efficiency.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <h4>Quality Assurance</h4>
+                <p>Implement comprehensive testing to meet high standards of security, performance, and regulatory compliance, ensuring reliable and safe user experiences.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <h4>Deployment and Maintenance</h4>
+                <p>Manage seamless app deployment and provide ongoing maintenance to keep your travel and hospitality apps secure, efficient, and adaptable to evolving needs.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -164,11 +235,11 @@
         <div class="col-md-12">
           <div class="sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              TRAVEL
+              TRAVEL & HOSPITALITY
               <span class="color-darkBlue">PORTFOLIO</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              Our Company has worked with thousands of businesses all across the world and has developed highly functional, responsive, and feature-rich applications. Check out some of our best works:
+              Our Travel & Hospitality portfolio showcases innovative mobile apps and responsive websites that boost guest experiences, operational efficiency, and service delivery worldwide.
             </p>
           </div>
         </div>
@@ -233,26 +304,26 @@
 
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-darkBlue">Why Choose Our</span> Media & Entertainment <span class="color-darkBlue">App Development Service</span>
+              <span class="color-darkBlue">Why Choose Our</span> TRAVEL & HOSPITALITY <span class="color-darkBlue">App Development Services</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              When you choose Blitz Mobile Apps for your media and entertainment mobile app development needs, you can expect:
+              With extensive experience in app development for the travel and hospitality sector, we help boost guest experiences and operational efficiency.
             </p>
           </div>
         </div>
@@ -269,49 +340,49 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Innovative Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
-                  <h4>Customized Solutions</h4>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
                   <h4>Real-Time Property Listings</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
                   <h4>Secure Payment Integration</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
                   <h4>Virtual Property Tours</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
+                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <h4>Secure Data Handling</h4>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Scalable Architecture</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Expert Development Team</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Proven Industry Experience</h4>
                 </div>
               </div>
             </div>
@@ -320,7 +391,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

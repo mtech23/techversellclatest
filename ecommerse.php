@@ -9,11 +9,11 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Redefining
-              <span class="color-lightBlue1">E-commerce</span> App Development
+              Techverse
+              <span class="color-lightBlue1"> E-Commerce </span>Apps Reimagine Customer Journeys, Reignite Sales
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              Providing premium e-commerce applications for a seamless user experience.
+              Our method of developing apps redefines customer interaction and operational effectiveness in the competitive world of e-commerce. Modern features are included for secure transactions, smooth browsing, and customized shopping experiences. Our robust systems guarantee scalability and use cutting-edge analytics to improve user retention and target marketing. We customize every program to achieve your company objectives, from solid backend solutions to appealing UI/UX design.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -53,16 +53,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600 ecom-abt1">
     <div class="container-fluid">
       <div class="row">
@@ -77,11 +77,11 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Welcome To
-                <span class="color-lightBlue2">Techverse</span>
+                Techverse Revolutionizes
+                <span class="color-lightBlue2"> Industries </span>Through Digital Power
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse provides top-notch e-commerce mobile app development services for clients worldwide. We help your organization scale better, increase cash flow and retain customers.
+                Welcome to Techverse, where our knowledge and your vision combine to build a better tomorrow. Enter a future where technology is defining the way things happen. Our specialty at Techverse is turning concepts into innovative solutions. We're here to innovate and improve, whether it's app development, digital strategy, or improving your online visibility. Our group is passionate about pushing the envelope and creating outcomes that revolutionize industries. Come along on this exploration and digital revolution adventure with us.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -112,20 +112,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Techverse for Personalized
+          <span class="color-darkBlue1"> Retail & E-Commerce </span>Apps Today!
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          Personalized app solutions to improve your retail and e-commerce operations. With our customized development services, you may increase revenue, improve client engagement, and streamline processes.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Gain actionable insights into customer behavior and business performance to drive informed decisions and optimize strategies for growth.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>Create intuitive interfaces that boost user experience and foster engagement, ensuring seamless navigation and compelling visuals.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>Build robust, scalable applications designed to meet the unique demands of retail and e-commerce environments, integrating cutting-edge features for boosted functionality.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Conduct rigorous testing across platforms to ensure performance, security, and reliability, delivering a flawless user experience and maintaining operational excellence.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -149,20 +188,53 @@
         <div class="col-lg-6">
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
-              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">Our
-                <span class="color-lightBlue2">Real Estate</span> Mobile App Development Process
+              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Techverse Delivers Flawless
+                <span class="color-lightBlue2"> E-commerce & Retail </span> Mobile Apps.
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We follow a streamlined approach to ensure customer satisfaction by delivering customized real estate mobile app development solutions.
+                Our E-commerce & Retail Mobile App Development Process begins with thorough discovery and planning, where we align business goals with user expectations. We then design intuitive UI/UX interfaces, develop robust applications with scalable features, and ensure quality through rigorous testing before seamless deployment.
               </p>
             </div>
           </div>
-          <?php include('./layout/business-analysis.php') ?>
+          <?php
+          // include('./layout/business-analysis.php') 
+          ?>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <h4>Business Analysis</h4>
+                <p>Gain deep insights into market trends and customer preferences to align app development with business goals and boost user satisfaction.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <h4>Design & Development</h4>
+                <p>Create intuitive interfaces and robust solutions that optimize shopping experiences, integrating innovative features to drive engagement and sales.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <h4>Quality Assurance</h4>
+                <p>Implement rigorous testing to ensure seamless functionality, security, and performance, maintaining high standards for user trust and satisfaction.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <h4>Deployment and Maintenance</h4>
+                <p>Efficiently deploy apps across platforms and provide ongoing support, ensuring scalability, reliability, and continuous improvement to meet evolving business needs.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -173,11 +245,11 @@
         <div class="col-md-12">
           <div class="sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              ECOMMERCE
+              eCOMMERCE
               <span class="color-darkBlue">Portfolio</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              Our Company has worked with thousands of businesses all across the world and has developed highly functional, responsive, and feature-rich applications. Check out some of our best works:
+              Explore our diverse eCommerce portfolio, which showcases successful app solutions. Each project highlights our expertise in enhancing user experience, driving sales, and optimizing operational efficiency for diverse business needs.
             </p>
           </div>
         </div>
@@ -242,23 +314,23 @@
 
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-darkBlue">Why Choose Our</span> Ecommerce App <span class="color-darkBlue">Development Service</span>
+              <span class="color-darkBlue">Why Choose Our</span> eCommerce App <span class="color-darkBlue">Development Service</span>
             </h2>
           </div>
         </div>
@@ -275,49 +347,49 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Expertise in UX/UI</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
-                  <h4>Customized Solutions</h4>
+                  <h4>Robust Security Measures</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
-                  <h4>Real-Time Property Listings</h4>
+                  <h4>Scalable Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
-                  <h4>Secure Payment Integration</h4>
+                  <h4>Increase Customer Engagement</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
-                  <h4>Virtual Property Tours</h4>
+                  <h4>Customized Features</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Seamless Integration</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Proven Track Record</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Ongoing Support</h4>
                 </div>
               </div>
             </div>
@@ -326,7 +398,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

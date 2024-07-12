@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="sec_title">
-        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">Tailored App Development 
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">Tailored App Development
           <span class="color-darkBlue1">For</span> Your Unique Business Needs
         </h2>
         <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">

@@ -1,83 +1,72 @@
-
-jQuery(document).ready(function($){
-  $('#leadForm').submit(function(e){
-      
+jQuery(document).ready(function ($) {
+  $("#leadForm").submit(function (e) {
     let formData = new FormData(this);
-     
+
     e.preventDefault();
-      
+
     let action = $.ajax({
-            type: 'post',
-            url: "https://techversellc.com/send_mail.php",
-            data: formData,
-            dataType: 'json',
-            cache: false,
-            contentType: false,
-            processData: false
-        });
+      type: "post",
+      url: "https://techversellc.com/send_mail.php",
+      data: formData,
+      dataType: "json",
+      cache: false,
+      contentType: false,
+      processData: false,
+    });
     let parent = $(this);
     action.done(function (response) {
-    
-     if(response.status){
-         toastr.success('Thank you!');
-     }   
-     else{
-         
-     toastr.error('Error Occured in submission!');
-     }
-    
-      
+      if (response.status) {
+        toastr.success("Thank you!");
+      } else {
+        toastr.error("Error Occured in submission!");
+      }
     });
     action.fail(function (error) {
-     toastr.error('Error Occured in submission!');
-    });
-      
-      
-  });  
-});
-
-
-
-document.addEventListener("DOMContentLoaded", function () {
-function applyMouseMoveEffect(sectionClass, containerClass) {
-  const sections = document.querySelectorAll(sectionClass);
-
-  sections.forEach((section) => {
-    const container = section.querySelector(containerClass);
-
-    section.addEventListener("mousemove", (event) => {
-      const rect = section.getBoundingClientRect();
-      const mouseX = event.clientX - rect.left;
-      const mouseY = event.clientY - rect.top;
-      const centerX = rect.width / 2;
-      const centerY = rect.height / 2;
-      const distX = (mouseX - centerX) * 0.1; // Adjust multiplier for desired effect
-      const distY = (mouseY - centerY) * 0.1; // Adjust multiplier for desired effect
-
-      gsap.to(container, {
-        x: distX,
-        y: distY,
-        ease: "power1.out",
-      });
-    });
-
-    section.addEventListener("mouseleave", () => {
-      gsap.to(container, {
-        x: 0,
-        y: 0,
-        ease: "power1.out",
-      });
+      toastr.error("Error Occured in submission!");
     });
   });
-}
-
-// Apply the effect to sections with the specified classes
-applyMouseMoveEffect(".hoverEffectSec", ".icon-container-hover");
 });
 
+$(document).ready(function () {
+  $("#popup_modal_id").modal("show");
+});
 
+document.addEventListener("DOMContentLoaded", function () {
+  function applyMouseMoveEffect(sectionClass, containerClass) {
+    const sections = document.querySelectorAll(sectionClass);
 
+    sections.forEach((section) => {
+      const container = section.querySelector(containerClass);
 
+      section.addEventListener("mousemove", (event) => {
+        const rect = section.getBoundingClientRect();
+        const mouseX = event.clientX - rect.left;
+        const mouseY = event.clientY - rect.top;
+        const centerX = rect.width / 2;
+        const centerY = rect.height / 2;
+        const distX = (mouseX - centerX) * 0.1; // Adjust multiplier for desired effect
+        const distY = (mouseY - centerY) * 0.1; // Adjust multiplier for desired effect
+
+        gsap.to(container, {
+          x: distX,
+          y: distY,
+          ease: "power1.out",
+        });
+      });
+
+      section.addEventListener("mouseleave", () => {
+        gsap.to(container, {
+          x: 0,
+          y: 0,
+          ease: "power1.out",
+        });
+      });
+    });
+  }
+
+  // Apply the effect to sections with the specified classes
+  applyMouseMoveEffect(".hoverEffectSec", ".icon-container-hover");
+});
 
 jQuery(document).ready(function () {
   let urlStroe = window.location.href;
@@ -126,15 +115,6 @@ circles.forEach((circle, i) => {
   );
 });
 
-
-
-
-
-
-
-
-
-
 var swiper = new Swiper(".mobileAppCarousel", {
   slidesPerView: 2.1,
   spaceBetween: 20,
@@ -163,7 +143,7 @@ var swiper = new Swiper(".webAppCarousel", {
   },
   breakpoints: {
     766: {
-    //   slidesPerView: 2.1,
+      //   slidesPerView: 2.1,
       slidesPerView: 3,
       spaceBetween: 30,
     },
@@ -171,14 +151,14 @@ var swiper = new Swiper(".webAppCarousel", {
 });
 
 var swiperHero = new Swiper(".mySwiperHero", {
-//   spaceBetween: 30,
+  //   spaceBetween: 30,
   spaceBetween: 0,
-   effect: "fade",
+  effect: "fade",
   fadeEffect: {
-      crossFade: true
-    },
+    crossFade: true,
+  },
   speed: 600,
-//   parallax: true,
+  //   parallax: true,
   loop: true,
   pagination: {
     el: ".swiper-pagination",
@@ -245,7 +225,6 @@ jQuery(document).ready(function () {
 //   });
 // });
 
-
 jQuery(document).ready(function () {
   $("#navbarDropdown").on("click", function (event) {
     event.stopPropagation();
@@ -268,9 +247,6 @@ jQuery(document).ready(function () {
     }
   });
 });
-
-
-
 
 var count_particles, stats, update;
 stats = new Stats();

@@ -9,11 +9,11 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Alter Your HR And Education Systems 
-              <span class="color-lightBlue1">With</span> Techverse
+              Transforming
+              <span class="color-lightBlue1"> HR and Education </span> Systems with Techverse
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
-              In today's fast-paced digital world, adapting to innovative solutions is crucial for staying ahead. At Techverse LLC, we specialize in transforming HR and education systems with cutting-edge technology to enhance efficiency, engagement, and effectiveness.
+              In today's digital era, Techverse LLC specializes in transforming education and HR sectors through cutting-edge technology. We improve operational efficiency, engagement, and effectiveness to help you lead in your industry.
             </p>
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
@@ -53,33 +53,33 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
         class="techVerse_about_icon2 animation33"
         src="images/Pill.png"
         alt=""
       /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent width-1600 ">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
           <div class="edu-hr-img1-div">
-              <img src="images/edu-hr-img-1.png" class="eduHR-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />-->
+            <img src="images/edu-hr-img-1.png" class="eduHR-img1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />-->
           </div>
         </div>
         <div class="col-md-6">
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Why 
-                <span class="color-lightBlue2">Choose</span> Us?
+                What Sets Us
+                <span class="color-lightBlue2"> Apart?</span>
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We specialize in digital marketing for the Education and HR sectors, leveraging our deep industry expertise to deliver tailored strategies that address the unique challenges and opportunities of these fields. Our team stays ahead of trends and regulations to ensure compliance and effectiveness, creating customized campaigns that resonate with your target audience.  
+                We excel in digital solutions designed for the Education and HR sectors, leveraging deep industry expertise to deliver strategies that meet unique challenges and goals. Stay compliant and effective with our targeted campaigns, ensuring your organization stays ahead.
               </p>
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
@@ -110,20 +110,59 @@
 </section>
 
 <!-- App Development Sec -->
-<?php include('./layout/app-dev-solution.php') ?>
+<?php
+// include('./layout/app-dev-solution.php') 
+?>
+<section class="app_devSec services-abbout1">
+  <div class="container">
+    <div class="row">
+      <div class="sec_title">
+        <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+          Techverse Builds Apps to Fit Your
+          <span class="color-darkBlue1"> Business Needs.</span>
+        </h2>
+        <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+          Use Techverse LLC's extensive app development services to grow your company. With our customized solutions, you may improve engagement, streamline operations, and enter new markets.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <h4>Analytics & Reporting</h4>
+      <p>Gain actionable insights into performance and user behavior with advanced analytics and reporting tools. Drive informed decisions, optimize strategies, and achieve growth and efficiency in your operations.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <h4>UI/UX Design</h4>
+      <p>We create intuitive interfaces that enhance user experience and drive engagement. Our designs blend aesthetics with functionality, ensuring seamless navigation and boosting user satisfaction across educational and HR platforms.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <h4>App Development</h4>
+      <p>From initial concept to deployment, our developers craft scalable and secure apps designed to meet the unique demands of the education and HR sectors. Harness the latest technologies to achieve your organizational goals effectively and efficiently.</p>
+    </div>
+    <div class="app_devBoxe">
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <h4>Testing & QA</h4>
+      <p>Ensure reliability and security through rigorous testing across platforms. Our QA processes guarantee flawless performance, maintaining high standards of functionality and user satisfaction in educational and HR app deployments.</p>
+    </div>
+  </div>
+</section>
 
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
           class="techVerse_about_icon2 animation33"
           src="images/Pill.png"
           alt=""
         /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -147,20 +186,53 @@
         <div class="col-lg-6">
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title realEstate-appSec_title">
-              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">App Development Process at
+              <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                App Development Process at
                 <span class="color-lightBlue2">TECHVERSE LLC</span>
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                We follow a streamlined approach to ensure customer satisfaction by delivering customized real estate mobile app development solutions.
+                Follow our streamlined approach to ensure customer satisfaction with customized real estate mobile app development solutions:
               </p>
             </div>
           </div>
-          <?php include('./layout/business-analysis.php') ?>
+          <?php
+          // include('./layout/business-analysis.php') 
+          ?>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <h4>Business Analysis</h4>
+                <p>Conduct comprehensive analysis to understand project objectives, target audience, and market trends for effective planning and strategy alignment.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <h4>Design & Development</h4>
+                <p>Expertly craft intuitive UI/UX interfaces and develop robust solutions that meet industry standards and exceed user expectations.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <h4>Quality Assurance</h4>
+                <p>Implement rigorous testing protocols to ensure app stability, security, and adherence to quality standards, guaranteeing a seamless user experience.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <h4>Deployment and Maintenance</h4>
+                <p>Facilitate smooth app rollout across multiple platforms and provide ongoing support to optimize performance and meet evolving user needs.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Portfolio -->
@@ -171,11 +243,11 @@
         <div class="col-md-12">
           <div class="sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              EDUCATION & HR 
+              EDUCATION & HR
               <span class="color-darkBlue">PORTFOLIO</span>
             </h2>
             <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-              Our comprehensive services are designed to enhance the online presence of educational institutions and HR firms, serving them get their mark audience more effectively and achieve their goals.
+              Improve your online presence with our comprehensive services designed for educational institutions and HR firms. With mobile apps and websites designed to your needs, you can effectively reach your target audience and achieve your goals.
             </p>
           </div>
         </div>
@@ -240,23 +312,23 @@
 
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
-    <div class="icon-container-hover">
-  <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-  <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <!-- <img
       class="techVerse_about_icon2 animation33"
       src="images/Pill.png"
       alt=""
     /> -->
-  <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-  <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="sec_title buildStore_sec_title">
             <h2 class="sec_title_head color-lightBlue2" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-              <span class="color-darkBlue">Why Choose Our</span> Ecommerce App <span class="color-darkBlue">Development Service</span>
+              <span class="color-darkBlue">Leading the Way in</span> Education & HR <span class="color-darkBlue">App Innovation</span>
             </h2>
           </div>
         </div>
@@ -273,7 +345,7 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
-                  <h4>Expert UI/UX Design</h4>
+                  <h4>Industry Expertise</h4>
                 </div>
               </div>
               <div class="col-md-6">
@@ -285,37 +357,37 @@
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
-                  <h4>Real-Time Property Listings</h4>
+                  <h4>User-Centric Design</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
-                  <h4>Secure Payment Integration</h4>
+                  <h4>Scalable Architecture</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
-                  <h4>Virtual Property Tours</h4>
+                  <h4>Compliance Assurance</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
-                  <h4>24/7 Customer Support</h4>
+                  <h4>Robust Security</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
-                  <h4>Competitive Pricing</h4>
+                  <h4>Ongoing Support</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
                   <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
-                  <h4>Latest Technologies</h4>
+                  <h4>Innovative Technologies</h4>
                 </div>
               </div>
             </div>
@@ -324,7 +396,7 @@
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>
 
 <!-- Technologies -->

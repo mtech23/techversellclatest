@@ -7,7 +7,7 @@
             <img src="images/contactUs-laptop.webp" class="contactUs-laptop" alt="" />
           </div>
           <div class="icon-container-hover">
-              <img src="images/SuperToroid-Orange-Glossy.png" class="techVerse-contact-imgIcon animation11" alt="" />
+            <img src="images/SuperToroid-Orange-Glossy.png" class="techVerse-contact-imgIcon animation11" alt="" />
           </div>
         </div>
       </div>
@@ -86,8 +86,11 @@
                   <h3 data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
                     subscribe our newsletter
                   </h3>
-                  <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                  <!-- <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
                     Stay ahead with Techverse LLC by subscribing to our newsletter! Get exclusive insights into the latest trends in mobile app development, web design, and digital innovation.
+                  </p> -->
+                  <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                    Stay updated with the latest trends and insights in mobile innovation. Subscribe to our newsletter for exclusive updates, industry news, and tips to boost your digital strategy.
                   </p>
                   <form data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                     <div class="formGroup news_letterInput">

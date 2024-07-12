@@ -39,9 +39,9 @@
               <!--</p>-->
               <!--<p>Tab 1</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-1.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-1.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -60,9 +60,9 @@
               <!--</p>-->
               <!--<p>Tab 2</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-2.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -81,9 +81,9 @@
               <!--</p>-->
               <!--<p>Tab 3</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-3.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -102,9 +102,9 @@
               <!--</p>-->
               <!--<p>Tab 4</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-4.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -123,9 +123,9 @@
               <!--</p>-->
               <!--<p>Tab 5</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-1.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -144,9 +144,9 @@
               <!--</p>-->
               <!--<p>Tab 6</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-2.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -165,9 +165,9 @@
               <!--</p>-->
               <!--<p>Tab 7</p>-->
               <div class="rc">
-                  <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
-                    <source src="./testimonials-video/test-2.mp4" type="video/mp4">
-              </video>
+                <video id="testimonialvideo" autoplay="" loop="" muted="" playsinline="" preload="">
+                  <source src="./testimonials-video/vid-3.mp4" type="video/mp4">
+                </video>
               </div>
               <h2>David Ruffer</h2>
               <p>Lorem Ipsum is simply dummy</p>
@@ -181,9 +181,9 @@
 <div class="modal fade testimoial_modal" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
-      
+
       <div class="modal-body testimonial-video">
-          <button type="button" class="close test_closeBtn" data-dismiss="modal" aria-label="Close">
+        <button type="button" class="close test_closeBtn" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
         <iframe src="https://www.youtube.com/embed/Jw7s42Op2ao?si=3R5KdKYRpyhcQsdy" title="YouTube video player" frameborder="0" allow="accelerometer; 
