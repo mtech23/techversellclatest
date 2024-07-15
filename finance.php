@@ -1,3 +1,9 @@
+<?php
+$title = "Financial Details Easy to Record with Our Finance Software";
+$meta_title = "Financial Details Easy to Record with Our Finance Software";
+$meta_description = "Finance software solutions with appropriate records beyond bookkeeping. The Fintech Software Developers at Techverse LLC are Professionals";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

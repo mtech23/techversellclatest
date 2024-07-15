@@ -1,3 +1,8 @@
+<?php
+$title = "Build First Impression with Techverse LLC Web Development";
+$meta_title = "Build First Impression with Techverse LLC Web Development";
+$meta_description = "Web development is a necessity in today’s digital age to perform better among competitors. We build the perfect website for solid business.";
+?>
 <?php include('./layout/header.php') ?>
 
 

@@ -1,3 +1,9 @@
+<?php
+$title = "The Techverse LLC Offers Automotive and Transport Solutions";
+$meta_title = "The Techverse LLC Offers Automotive and Transport Solutions";
+$meta_description = "Techverse LLC is the place for developing the best automotive Apps. We can craft Automotive and Transport solutions with live navigations.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

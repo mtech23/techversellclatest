@@ -1,3 +1,9 @@
+<?php
+$title = "Producing Functional Web Application That Boosts Business";
+$meta_title = "Producing Functional Web Application That Boosts Business";
+$meta_description = "Online operational and functional web application develops according to the custom requirement at Techverse LLC. Expert service available!";
+?>
+
 <?php include('./layout/header.php') ?>
 
 

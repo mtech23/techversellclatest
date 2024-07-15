@@ -1,3 +1,9 @@
+<?php
+$title = "Terms & Conditions";
+$meta_title = "Terms & Conditions";
+$meta_description = "Terms & Conditions";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

@@ -1,3 +1,9 @@
+<?php
+$title = "Tech Verse LLC";
+$meta_title = "Welcome to Techverse LLC";
+$meta_description = "Welcome to Techverse LLC";
+?>
+
 <?php include('./layout/header.php') ?>
 
 

@@ -1,3 +1,9 @@
+<?php
+$title = "Sports Teams & Leagues Scorecards with Techverse LLC Apps";
+$meta_title = "Sports Teams & Leagues Scorecards with Techverse LLC Apps";
+$meta_description = "Professional sports teams management apps with proper records and each player database. Techverse LLC offers sports teams & leagues apps.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

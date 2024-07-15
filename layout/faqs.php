@@ -30,15 +30,6 @@
                   <p>
                     Techverse LLC offers services, including mobile application development, web development, digital marketing, e-commerce solutions, business development, and ongoing support and maintenance for developed solutions.
                   </p>
-                  <!-- <ul class="faqs_ul">
-                    <li>Mobile Application Development</li>
-                    <li>E-Commerce Development</li>
-                    <li>App Store Optimization</li>
-                    <li>Business Development</li>
-                    <li>Web Development</li>
-                    <li>Digital Marketing</li>
-                    <li>Web Application Development</li>
-                </ul> -->
                 </div>
               </div>
             </div>

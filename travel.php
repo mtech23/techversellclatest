@@ -1,3 +1,9 @@
+<?php
+$title = "Manage Travel & Hospitality Business with Custom Software";
+$meta_title = "Manage Travel & Hospitality Business with Custom Software";
+$meta_description = "Application development services by Techverse LLC for travel & hospitality. Work with fingertips to book hotels and air tickets worldwide.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

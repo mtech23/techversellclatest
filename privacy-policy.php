@@ -1,3 +1,9 @@
+<?php
+$title = "Privacy Policy";
+$meta_title = "Privacy Policy";
+$meta_description = "Privacy Policy ";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

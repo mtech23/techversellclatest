@@ -1,3 +1,8 @@
+<?php
+$title = "Welcome to Techverse LLC About us Details and Descriptions";
+$meta_title = "Welcome to Techverse LLC About us Details and Descriptions";
+$meta_description = "Find the information about the company Techverse LLC about us. The quality place of software applications development for web and mobile. ";
+?>
 <?php include('./layout/header.php') ?>
 
 

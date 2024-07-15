@@ -1,3 +1,9 @@
+<?php
+$title = "Records Become More Accurate with Our Education & HR Apps";
+$meta_title = "Records Become More Accurate with Our Education & HR Apps";
+$meta_description = "Techverse LLC brings data accuracy for every academic record with education & HR educational app development. Contact us today for details!";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

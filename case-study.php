@@ -1,3 +1,9 @@
+<?php
+$title = "Case Studies";
+$meta_title = "Case Studies";
+$meta_description = "Case Studies";
+?>
+
 <?php include('./layout/header.php') ?>
 
 
@@ -61,12 +67,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                ANGEL BODY - eCOMMERCE APP
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -75,6 +75,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                ANGEL BODY - E-Commerce App
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_black">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">
@@ -110,12 +116,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Brian Carlisle - Book Author App
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -124,6 +124,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Brian Carlisle - E-Book App
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_white">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">
@@ -159,12 +165,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Ryderz Van - ECOMMERCE APP
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -173,6 +173,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Ryderz Van - E-Commerce App
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_black">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">
@@ -203,12 +209,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Irving Segal - E-BOOK App
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -217,6 +217,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Irving Segal - E-Book App
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_black">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">
@@ -247,12 +253,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Frame With Photos - ECOMMERCE APP
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -261,6 +261,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                Frame With Photos - E-Commerce App
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_black">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">
@@ -291,12 +297,6 @@
         <div class="col-md-6">
           <div class="casestudy-content">
             <div class="sec_title">
-              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                1-Eleven - BOOKING SERVICE
-              </h2>
-              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
-              </p>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
                   <img src="images/playstore.webp" alt="">
@@ -305,6 +305,12 @@
                   <img src="images/app-store.webp" alt="">
                 </a>
               </div>
+              <h2 class="sec_title_head" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
+                1-Eleven - Booking Service
+              </h2>
+              <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
+                Techverse LLC partnered with a leading clothing retailer aiming to enhance its digital presence and customer engagement through a bespoke e-commerce app.
+              </p>
               <div class="techVerse_hero_btns " data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon btn_black">
                   <img class="btn_with_icon_img" src="images/phone-icon-blue.webp" alt="">

@@ -1,3 +1,8 @@
+<?php
+$title = "Techverse LLC Capable to Offer a Complete App Store Services";
+$meta_title = "Techverse LLC Capable to Offer a Complete App Store Services";
+$meta_description = "services in order to initiate business optimization stronger. Techverse LLC enforces the technical abilities to reform business.";
+?>
 <?php include('./layout/header.php') ?>
 
 

@@ -24,6 +24,24 @@
                 </div>
                 <form method="POST" id="leadForm" action="">
                   <div class="row">
+                    <div class="col-md-10 mb-3 contact-formCols">
+                      <div class="form-group">
+                        <select class="inputForm" name="industry" required>
+                          <option selected>Select your industry</option>
+                          <option value="real-estate-and-property">Real Estate & Property</option>
+                          <option value="automotive-and-transport">Automotive and Transport</option>
+                          <option value="eCommerse-and-retail">E-commerce & Retails</option>
+                          <option value="advertizing">Advertising</option>
+                          <option value="edu-hr">Education & HR</option>
+                          <option value="health-science">Health and Life Sciences</option>
+                          <option value="software-tech">Software & High Tech</option>
+                          <option value="finance">Finance</option>
+                          <option value="media-entertainment">Media & Entertainment</option>
+                          <option value="sports-leagues">Sports Teams & Leagues</option>
+                          <option value="travel-hospitality">Travel & Hospitality</option>
+                        </select>
+                      </div>
+                    </div>
                     <div class="col-md-5 mb-5 contact-formCols">
                       <div class="form-group">
                         <input type="text" placeholder="First Name" class="inputForm" name="firstname" required />

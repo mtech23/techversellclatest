@@ -1,3 +1,9 @@
+<?php
+$title = "The Media & Entertainment Application Development Services";
+$meta_title = "The Media & Entertainment Application Development Services";
+$meta_description = "Techverse LLC provides a perfect graphical environment and user-friendly Media & Entertainment application development services. Learn More!";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

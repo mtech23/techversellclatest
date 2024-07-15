@@ -1,3 +1,9 @@
+<?php
+$title = "Techverse LLC Health and Life Sciences Software Solutions";
+$meta_title = "Techverse LLC Health and Life Sciences Software Solutions";
+$meta_description = "Seamless healthcare Apps that can support medical centers & pharmacies. Techverse LLC offers health and life sciences software applications.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

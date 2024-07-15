@@ -1,3 +1,9 @@
+<?php
+$title = "Software Solutions Development for Real Estate & Property";
+$meta_title = "Software Solutions Development for Real Estate & Property";
+$meta_description = "Real Estate & Property services obligatory expert software to perform actions efficiently. Techverse LLC custom-built Real Estate Solutions.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

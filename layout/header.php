@@ -5,7 +5,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="robots" content="index,nofollow" />
-    <title>Tech Verse LLC</title>
+    <meta name="title" content="<?php echo $meta_title; ?>">
+    <meta name="description" content="<?php echo $meta_description; ?>">
+    <title><?php echo $title; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -437,7 +439,7 @@
                                         </h2>
                                     </div>
                                     <div class="popUp_form">
-                                        <form>
+                                        <form id="leadForm">
                                             <div class="input-group mb-3">
                                                 <div class="input-group-prepend">
                                                     <span class="input-group-text" id="inputGroup-sizing-default"><i class="fa fa-user" aria-hidden="true"></i></span>

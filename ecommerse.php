@@ -1,3 +1,9 @@
+<?php
+$title = "E-Commerce & Retails Record Control System at Techverse LLC";
+$meta_title = "E-Commerce & Retails Record Control System at Techverse LLC";
+$meta_description = "Our skilled team revolutionized Apps for retail like never before, Techverse LLC for E-Commerce & Retails application software development.";
+?>
+
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->

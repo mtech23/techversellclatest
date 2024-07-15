@@ -1,3 +1,8 @@
+<?php
+$title = "Techverse LLC for Software Development & Solutions";
+$meta_title = "Techverse LLC for Software Development & Solutions";
+$meta_description = "Looking for business software development & solutions? We also develop mobile apps; contact Techverse LLC for all the business solutions !!";
+?>
 <?php include('./layout/header.php') ?>
 <!-- Hero -->
 

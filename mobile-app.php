@@ -1,3 +1,8 @@
+<?php
+$title = "Special Variety of Mobile Application Development Available";
+$meta_title = "Special Variety of Mobile Application Development Available";
+$meta_description = "Providing the services of mobile application development at Techverse LLC. We craft the solutions for all the software you are looking for. ";
+?>
 <?php include('./layout/header.php') ?>
 
 <!-- Inner Hero -->
