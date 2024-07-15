@@ -7,7 +7,7 @@
             <img src="images/contactUs-laptop.webp" class="contactUs-laptop" alt="" />
           </div>
           <div class="icon-container-hover">
-            <img src="images/SuperToroid-Orange-Glossy.png" class="techVerse-contact-imgIcon animation11" alt="" />
+            <img src="images/SuperToroid-Orange-Glossy.webp" class="techVerse-contact-imgIcon animation11" alt="" />
           </div>
         </div>
       </div>
@@ -53,10 +53,10 @@
                       <div class="budget-wrap">
                         <div class="budget-header">
                           <span class="budget-title">Set Your Budget</span>
-                          <span class="budget-value"> $500</span>
+                          <span class="budget-value"> $0</span>
                         </div>
                         <div class="budget-content">
-                          <input type="range" min="500" max="5000" value="50" class="budget-slider" id="budgetRange" name="budget" />
+                          <input type="range" min="0" max="50000" value="50" class="budget-slider" id="budgetRange" name="budget" />
                         </div>
                       </div>
                     </div>
@@ -78,7 +78,7 @@
                 </form>
                 <div class="get_discount">GET DISCOUNT</div>
               </div>
-              <div class="newLetterBox">
+              <!-- <div class="newLetterBox">
                 <div class="contentBox">
                   <h3 class="newLetterBox_strokeTxt" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
                     NEWSLETTER
@@ -86,9 +86,7 @@
                   <h3 data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
                     subscribe our newsletter
                   </h3>
-                  <!-- <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                    Stay ahead with Techverse LLC by subscribing to our newsletter! Get exclusive insights into the latest trends in mobile app development, web design, and digital innovation.
-                  </p> -->
+                  
                   <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
                     Stay updated with the latest trends and insights in mobile innovation. Subscribe to our newsletter for exclusive updates, industry news, and tips to boost your digital strategy.
                   </p>
@@ -97,12 +95,12 @@
                       <input type="email" placeholder="Enter Your Email...." />
                       <button type="submit">
                         Subscribe Now
-                        <img class="btn_with_icon_img" src="images/arrow-icon.png" alt="" />
+                        <img class="btn_with_icon_img" src="images/arrow-icon.webp" alt="" />
                       </button>
                     </div>
                   </form>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>

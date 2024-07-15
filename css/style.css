@@ -184,7 +184,7 @@ h2 {
 .techVerse_hero {
   /*height: 100vh;*/
   color: #fff;
-  background-image: url(../images/hero-bg.png);
+  background-image: url(../images/hero-bg.webp);
   background-size: cover;
   background-position: center;
   padding: 70px 0 40px;
@@ -416,7 +416,7 @@ h2 {
 .service_box_after {
   color: #fff;
   padding: 30px 15px;
-  background-image: url(../images/service-box-bg.png);
+  background-image: url(../images/service-box-bg.webp);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -463,7 +463,7 @@ h2 {
 /* Portfolio Start */
 .techVerse_portfolio {
   padding: 60px 0 80px;
-  background-image: url(../images/our-porfolio-bg.png);
+  background-image: url(../images/our-porfolio-bg.webp);
 }
 .techVerse_portfolio .sec_title {
   text-align: center;
@@ -800,7 +800,7 @@ body .rc h2 {
 /* Testimonials End */
 
 .techVerse_mobileApp {
-  background-image: url(../images/mobileApp-bg.png);
+  background-image: url(../images/mobileApp-bg.webp);
   background-image: url(../images/mobile-app-bg.gif);
   background-size: cover;
 }
@@ -827,7 +827,7 @@ body .rc h2 {
 
 /* Case Studies Start */
 .techVerse_caseStudies {
-  background-image: url(../images/casestudy-bg.png);
+  background-image: url(../images/casestudy-bg.webp);
   padding: 60px 0;
   position: relative;
   overflow: hidden;
@@ -951,7 +951,7 @@ body .rc h2 {
 }
 
 .bgOrange {
-  background-image: url(https://custom.mystagingserver.site/techversellc/images/bgImage.png);
+  background-image: url(https://custom.mystagingserver.site/techversellc/images/bgImage.webp);
   height: 560px;
   overflow: hidden;
   position: relative;
@@ -1000,16 +1000,16 @@ body .rc h2 {
 /* Contact Start */
 .contactLaptop-outer {
   position: relative;
-  margin-top: 90px;
+  /* margin-top: 90px; */
 }
 .techVerse-contact-imgIcon {
   position: absolute;
-  bottom: -70px;
-  left: 36%;
-  width: 170px;
+  top: 70px;
+  right: 12%;
+  width: 110px;
 }
 .contact-laptopBG {
-  background-image: url(../images/contact-laptopBG.png);
+  background-image: url(../images/contact-laptopBG.webp);
   background-size: cover;
 }
 
@@ -1018,7 +1018,7 @@ body .rc h2 {
   z-index: 9;
 }
 .contact_formContent {
-  background-image: url(../images/bgContatc.png);
+  background-image: url(../images/bgContatc.webp);
   padding-left: 100px;
   padding-top: 50px;
   position: relative;
@@ -1804,7 +1804,7 @@ canvas.particles-js-canvas-el {
 }
 
 .contactUS_hero .inner-bgColor {
-  background-image: url(../images/contact-herobg.png);
+  background-image: url(../images/contact-herobg.webp);
   opacity: 0.8;
   background-position: top center;
   background-size: cover;
@@ -1821,7 +1821,7 @@ canvas.particles-js-canvas-el {
   background-image: url(../images/contact-hero-form-bg.webp);
 }
 /*.contactUSNew_hero .inner-bgColor {*/
-/*    background-image: url(../images/contact-hero-form-bg.png);*/
+/*    background-image: url(../images/contact-hero-form-bg.webp);*/
 /*    opacity: 0.8;*/
 /*    background-position: top center;*/
 /*    background-size: cover;*/
@@ -2118,7 +2118,7 @@ canvas.particles-js-canvas-el {
 
 /* Tech Start */
 .techVerse_tech {
-  background-image: url(../images/tech-bg.png);
+  background-image: url(../images/tech-bg.webp);
   padding: 60px 0;
 }
 .tech-boxes {
@@ -2129,7 +2129,7 @@ canvas.particles-js-canvas-el {
   width: 170px;
 }
 .single_logo {
-  background-image: url(../images/white-polygon.png);
+  background-image: url(../images/white-polygon.webp);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   height: 140px;
@@ -2148,7 +2148,7 @@ canvas.particles-js-canvas-el {
 }
 
 .single_logo:hover {
-  background-image: url(../images/blue-polygon.png);
+  background-image: url(../images/blue-polygon.webp);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -2219,7 +2219,7 @@ canvas.particles-js-canvas-el {
   align-items: center;
 }
 .body-bullet-list li::before {
-  background-image: url("../images/Sphere-Blue-circle.png");
+  background-image: url("../images/Sphere-Blue-circle.webp");
   content: "";
   display: inline-block;
   margin-right: 10px;
@@ -2265,7 +2265,7 @@ canvas.particles-js-canvas-el {
   line-height: 1.7;
 }
 .app_devSec {
-  background-image: url(../images/real-estate-secBG.png);
+  background-image: url(../images/real-estate-secBG.webp);
   background-size: cover;
   background-position: top center;
   padding: 60px 0;
@@ -2357,7 +2357,7 @@ canvas.particles-js-canvas-el {
   content: "";
   width: 70px;
   height: 60px;
-  /*background: url(../images/donat-blue.png);*/
+  /*background: url(../images/donat-blue.webp);*/
   top: 0px;
   right: 0;
   position: absolute;
@@ -2650,6 +2650,24 @@ canvas.particles-js-canvas-el {
   opacity: 1;
 }
 /* PopUp Modal End */
+
+/* Toaster */
+.toast-success {
+  background-color: #02a9f7 !important; /* Your desired background color */
+  color: #fff !important; /* Text color */
+}
+
+/* Terms And Condition */
+.terms-and-condition {
+  padding: 60px 0;
+}
+.terms-and-condition .faqs_ul {
+  margin: 20px 0;
+}
+.terms-and-condition .faqs_ul li {
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
 
 /* Media Quries */
 @media (max-width: 1600px) {

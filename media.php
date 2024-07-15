@@ -18,15 +18,15 @@
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/playstore.png" alt="">
+                  <img src="images/playstore.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -35,7 +35,7 @@
         <!-- <div class="col-md-6">
               <div class="inner_hero_img">
                 <img
-                    src="images/ecommerse-dev-hero.png"
+                    src="images/ecommerse-dev-hero.webp"
                     data-aos="fade-left"
                     data-aos-offset="0"
                     data-aos-duration="3000"
@@ -54,14 +54,14 @@
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 media-abt1 hoverEffectSec" id="particles-js1">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
         class="techVerse_about_icon2 animation33"
-        src="images/Pill.png"
+        src="images/Pill.webp"
         alt=""
       /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
@@ -86,20 +86,20 @@
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
               <div class="techVerse_store_links" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/play-store.png" alt="">
+                  <img src="images/play-store.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -131,22 +131,22 @@
   </div>
   <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.webp" alt=""></div>
       <h4>Analytics & Reporting</h4>
       <p>Gain valuable insights into media metrics and audience behavior to make informed decisions and boost operational efficiency.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.webp" alt=""></div>
       <h4>UI/UX Design</h4>
       <p>Design user-friendly interfaces that boost the user experience, making navigation easy and engaging for media professionals and audiences.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.webp" alt=""></div>
       <h4>App Development</h4>
       <p>From initial concept to deployment, we create robust and secure media applications that streamline workflows and boost content delivery.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.webp" alt=""></div>
       <h4>Testing & QA</h4>
       <p>Conduct rigorous testing to ensure reliability, security, and compliance with industry standards, guaranteeing smooth functionality across platforms.</p>
     </div>
@@ -156,14 +156,14 @@
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
           class="techVerse_about_icon2 animation33"
-          src="images/Pill.png"
+          src="images/Pill.webp"
           alt=""
         /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -175,11 +175,11 @@
             </div>
             <div class="techVerse_hero_btns re_appDev_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="">
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="">
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -203,28 +203,28 @@
           <div class="row">
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.webp" alt=""></div>
                 <h4>Business Analysis</h4>
                 <p>We perform detailed analyses to align media app development with organizational goals and audience needs, ensuring effective solutions from start to finish.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.webp" alt=""></div>
                 <h4>Design & Development</h4>
                 <p>Our team designs intuitive interfaces and develops robust media solutions, leveraging advanced technologies to boost audience engagement and operational efficiency.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/quality-icon.webp" alt=""></div>
                 <h4>Quality Assurance</h4>
                 <p>We implement thorough testing to ensure our media apps meet high standards for security, performance, and regulatory compliance, providing reliable and safe user experiences.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.webp" alt=""></div>
                 <h4>Deployment and Maintenance</h4>
                 <p>We manage seamless deployment and provide ongoing maintenance to ensure media apps remain secure, efficient, and adaptable to changing demands.</p>
               </div>
@@ -265,34 +265,34 @@
                 <div class="swiper mobileAppCarousel">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-1.png" alt="" />
+                      <img src="images/media-portfolio-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-2.png" alt="" />
+                      <img src="images/media-portfolio-2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-3.png" alt="" />
+                      <img src="images/media-portfolio-3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-4.png" alt="" />
+                      <img src="images/media-portfolio-4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-5.png" alt="" />
+                      <img src="images/media-portfolio-5.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-1.png" alt="" />
+                      <img src="images/media-portfolio-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-2.png" alt="" />
+                      <img src="images/media-portfolio-2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-3.png" alt="" />
+                      <img src="images/media-portfolio-3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-4.png" alt="" />
+                      <img src="images/media-portfolio-4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/media-portfolio-5.png" alt="" />
+                      <img src="images/media-portfolio-5.webp" alt="" />
                     </div>
                   </div>
                 </div>
@@ -315,14 +315,14 @@
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
       class="techVerse_about_icon2 animation33"
-      src="images/Pill.png"
+      src="images/Pill.webp"
       alt=""
     /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -349,49 +349,49 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon1.webp" alt=""></div>
                   <h4>Immersive user experiences</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon2.webp" alt=""></div>
                   <h4>Enhanced content distribution</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon3.webp" alt=""></div>
                   <h4>Real-time audience engagement</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon4.webp" alt=""></div>
                   <h4>Scalable streaming solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon5.webp" alt=""></div>
                   <h4>Personalized content recommendations</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon6.webp" alt=""></div>
                   <h4>Secure digital rights management</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon7.webp" alt=""></div>
                   <h4>Monetization opportunities</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon8.webp" alt=""></div>
                   <h4>Integration with social media platforms</h4>
                 </div>
               </div>

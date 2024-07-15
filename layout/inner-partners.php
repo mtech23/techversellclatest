@@ -7,67 +7,67 @@
           <div class="marquee-container trusted-partnerContainer">
             <div class="marquee">
               <div class="trustedPartners">
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-blue.webp" alt="" />
+                </div>
+                <div class="trustedPartner col">
+                  <img src="images/t-p-black.webp" alt="" />
+                </div>
               </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-blue.png" alt="" />
-              </div>
-              <div class="trustedPartner col">
-                <img src="images/t-p-black.png" alt="" />
-              </div>
-            </div>
 
             </div>
           </div>

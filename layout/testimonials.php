@@ -7,19 +7,19 @@
           <div class="techVerse_testimonialsTextSec">
             <div class="testimonials_titleHead">
               <span data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">TESTIMONIALS</span>
-              <img src="images/test-Line.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="1000" alt="" />
+              <img src="images/test-Line.webp" data-aos="fade-left" data-aos-offset="0" data-aos-duration="1000" alt="" />
             </div>
             <h2 class="testimonials_title" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
               WHAT PEOPLE SAY
             </h2>
             <div class="techVerse_testimonialsTextSec-img testimonial-pic" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
-              <img src="images/face-1.png" class="face_1 active" data-alt="tab1" />
-              <img src="images/face-2.png" class="face_2" data-alt="tab2" />
-              <img src="images/face-3.png" class="face_3" data-alt="tab3" />
-              <img src="images/face-4.png" class="face_4" data-alt="tab4" />
-              <img src="images/face-5.png" class="face_5" data-alt="tab5" />
-              <img src="images/face-6.png" class="face_6" data-alt="tab6" />
-              <img src="images/face-7.png" class="face_7" data-alt="tab7" />
+              <img src="images/face-1.webp" class="face_1 active" data-alt="tab1" />
+              <img src="images/face-2.webp" class="face_2" data-alt="tab2" />
+              <img src="images/face-3.webp" class="face_3" data-alt="tab3" />
+              <img src="images/face-4.webp" class="face_4" data-alt="tab4" />
+              <img src="images/face-5.webp" class="face_5" data-alt="tab5" />
+              <img src="images/face-6.webp" class="face_6" data-alt="tab6" />
+              <img src="images/face-7.webp" class="face_7" data-alt="tab7" />
             </div>
           </div>
         </div>

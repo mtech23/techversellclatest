@@ -4,7 +4,7 @@
 
 <!-- Hero -->
 <div class="swiper mySwiperHero">
-  <!--<div class="parallax-bg" style="background-image: url(images/hero-bg.png);" data-swiper-parallax="-23%"></div>-->
+  <!--<div class="parallax-bg" style="background-image: url(images/hero-bg.webp);" data-swiper-parallax="-23%"></div>-->
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <section class="techVerse_hero hoverEffectSec" style="background-image: url(images/hero-bg.webp);">
@@ -23,27 +23,27 @@
                   </p>
                   <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
-                      <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Call Now</span>
                     </a>
                     <a href="#" class="btn_with_icon btn_secondary">
-                      <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Chat Now</span>
                     </a>
                   </div>
                   <div class="hero_brands" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
-                    <a href="#" class="hero_brands_img"><img src="images/clutch.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/bbb.png" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/clutch.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/bbb.webp" alt="" /></a>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="techVerse_hero_img">
                   <div class="icon-container-hover">
-                    <img src="images/donat-blue.png" class="techVerse_hero_icon1 animation11" alt="" />
-                    <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
-                    <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
+                    <img src="images/donat-blue.webp" class="techVerse_hero_icon1 animation11" alt="" />
+                    <img src="images/Pill-Blue-Glossy.webp" class="techVerse_hero_icon2 animation22" alt="" />
+                    <img src="images/Cone-Blue-Glossy.webp" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
                   <img src="images/hero-phone-mockup-group.webp" class="hero-img-1" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
@@ -68,27 +68,27 @@
                   </p>
                   <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
-                      <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Call Now</span>
                     </a>
                     <a href="#" class="btn_with_icon btn_secondary">
-                      <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Chat Now</span>
                     </a>
                   </div>
                   <div class="hero_brands" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
-                    <a href="#" class="hero_brands_img"><img src="images/clutch.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/bbb.png" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/clutch.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/bbb.webp" alt="" /></a>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="techVerse_hero_img">
                   <div class="icon-container-hover">
-                    <img src="images/donat-blue.png" class="techVerse_hero_icon1 animation11" alt="" />
-                    <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
-                    <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
+                    <img src="images/donat-blue.webp" class="techVerse_hero_icon1 animation11" alt="" />
+                    <img src="images/Pill-Blue-Glossy.webp" class="techVerse_hero_icon2 animation22" alt="" />
+                    <img src="images/Cone-Blue-Glossy.webp" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
                   <img src="images/hero-web-mockup-group22.webp" class="hero-img-2" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
@@ -113,27 +113,27 @@
                   </p>
                   <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                     <a href="#" class="btn_with_icon">
-                      <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Call Now</span>
                     </a>
                     <a href="#" class="btn_with_icon btn_secondary">
-                      <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                      <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                       <span class="btn_with_icon_text">Chat Now</span>
                     </a>
                   </div>
                   <div class="hero_brands" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
-                    <a href="#" class="hero_brands_img"><img src="images/clutch.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.png" alt="" /></a>
-                    <a href="#" class="hero_brands_img"><img src="images/bbb.png" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/clutch.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/trus-pilot.webp" alt="" /></a>
+                    <a href="#" class="hero_brands_img"><img src="images/bbb.webp" alt="" /></a>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="techVerse_hero_img">
                   <div class="icon-container-hover">
-                    <img src="images/donat-blue.png" class="techVerse_hero_icon1 animation11" alt="" />
-                    <img src="images/Pill-Blue-Glossy.png" class="techVerse_hero_icon2 animation22" alt="" />
-                    <img src="images/Cone-Blue-Glossy.png" class="techVerse_hero_icon3 animation22" alt="" />
+                    <img src="images/donat-blue.webp" class="techVerse_hero_icon1 animation11" alt="" />
+                    <img src="images/Pill-Blue-Glossy.webp" class="techVerse_hero_icon2 animation22" alt="" />
+                    <img src="images/Cone-Blue-Glossy.webp" class="techVerse_hero_icon3 animation22" alt="" />
                   </div>
                   <img src="images/hero-slider-img-3.webp" class="hero-img-3" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" />
                 </div>
@@ -154,10 +154,10 @@
 <!-- About Sec -->
 <section class="techVerse_about hoverEffectSec" id="particles-js1">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-    <img class="techVerse_about_icon2 animation33" src="images/Pill.png" alt="" />
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
+    <img class="techVerse_about_icon2 animation33" src="images/Pill.webp" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
@@ -166,7 +166,7 @@
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
               <img src="images/laptop.webp" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
-              <img src="images/laptop-Frame.png" class="laptop-Frame" data-aos="fade-left" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/laptop-Frame.webp" class="laptop-Frame" data-aos="fade-left" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -183,11 +183,11 @@
               </p>
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary" data-toggle="modal" data-target=".bd-example-modal-lg">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
@@ -205,11 +205,11 @@
 <!-- Services -->
 <section class="techVerse_services hoverEffectSec" id="particles-js2">
   <div class="icon-container-hover">
-    <img class="techVerse_services_icon1 animation11" src="images/pink-capsol.png" alt="" />
-    <img class="techVerse_services_icon2 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_services_icon3 animation33" src="images/orange-circle.png" alt="" />
-    <img class="techVerse_services_icon4 animation22" src="images/donate-white-small.png " alt="" />
-    <img class="techVerse_services_icon5 animation33" src="images/orange-half-circle.png" alt="" />
+    <img class="techVerse_services_icon1 animation11" src="images/pink-capsol.webp" alt="" />
+    <img class="techVerse_services_icon2 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_services_icon3 animation33" src="images/orange-circle.webp" alt="" />
+    <img class="techVerse_services_icon4 animation22" src="images/donate-white-small.webp " alt="" />
+    <img class="techVerse_services_icon5 animation33" src="images/orange-half-circle.webp" alt="" />
   </div>
   <div class="container services_offerContainer">
     <div class="row">
@@ -223,15 +223,15 @@
         </p>
       </div>
       <div class="techVerse_services_content">
-        <img src="images/blue-cube.png" class="blue-cube1 animation11" alt="" />
-        <img src="images/blue-cube.png" class="blue-cube2 animation11" alt="" />
+        <img src="images/blue-cube.webp" class="blue-cube1 animation11" alt="" />
+        <img src="images/blue-cube.webp" class="blue-cube2 animation11" alt="" />
         <div class="service_box_1"></div>
         <div class="service_box_2"></div>
         <div class="service_box_3"></div>
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/ios-icon.png" alt="" />
+              <img src="images/ios-icon.webp" alt="" />
             </div>
             <h3 class="service_box_title">IOS Development</h3>
           </div>
@@ -245,7 +245,7 @@
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/smart-contract-icon.png" alt="" />
+              <img src="images/smart-contract-icon.webp" alt="" />
             </div>
             <h3 class="service_box_title">Smart Contract Development</h3>
           </div>
@@ -259,7 +259,7 @@
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/andriod-icon.png" alt="" />
+              <img src="images/andriod-icon.webp" alt="" />
             </div>
             <h3 class="service_box_title">Android Development</h3>
           </div>
@@ -273,7 +273,7 @@
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/custom-app-icon.png" alt="" />
+              <img src="images/custom-app-icon.webp" alt="" />
             </div>
             <h3 class="service_box_title">Custom App Development</h3>
           </div>
@@ -287,7 +287,7 @@
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/enter-prize-icon.png" alt="" />
+              <img src="images/enter-prize-icon.webp" alt="" />
             </div>
             <h3 class="service_box_title">Enterprise App Development</h3>
           </div>
@@ -301,7 +301,7 @@
         <div class="service_box">
           <div class="service_box_before">
             <div class="service_box_icon">
-              <img src="images/cross-platform.png" alt="" />
+              <img src="images/cross-platform.webp" alt="" />
             </div>
             <h3 class="service_box_title">Cross-Platform Development</h3>
           </div>
@@ -352,25 +352,25 @@
                 <div class="swiper mobileAppCarousel">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-1.png" alt="" />
+                      <img src="images/portfolio-mockup-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-2.png" alt="" />
+                      <img src="images/portfolio-mockup-2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-3.png" alt="" />
+                      <img src="images/portfolio-mockup-3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-4.png" alt="" />
+                      <img src="images/portfolio-mockup-4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-5.png" alt="" />
+                      <img src="images/portfolio-mockup-5.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-1.png" alt="" />
+                      <img src="images/portfolio-mockup-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/portfolio-mockup-2.png" alt="" />
+                      <img src="images/portfolio-mockup-2.webp" alt="" />
                     </div>
                   </div>
                 </div>
@@ -401,10 +401,10 @@
 <!-- Case Studies -->
 <section class="techVerse_caseStudies hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_caseStudies_icon1 animation22" src="images/peramid-angled.png" alt="" />
-    <img class="techVerse_caseStudies_icon2 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_caseStudies_icon3 animation22" src="images/donate-white-small.png" alt="" />
-    <img class="techVerse_caseStudies_icon4 animation33" src="images/orange-circle.png" alt="" />
+    <img class="techVerse_caseStudies_icon1 animation22" src="images/peramid-angled.webp" alt="" />
+    <img class="techVerse_caseStudies_icon2 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_caseStudies_icon3 animation22" src="images/donate-white-small.webp" alt="" />
+    <img class="techVerse_caseStudies_icon4 animation33" src="images/orange-circle.webp" alt="" />
   </div>
   <div class="techVerse_caseStudies-Content">
     <div class="container-fluid">
@@ -422,33 +422,33 @@
         </div>
         <!-- New -->
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/irving-segal-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/irving-segal-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/irving-segal-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/irving-segal-img.webp" alt="" />
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/brain-carlisle-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/brain-carlisle-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/brain-carlisle-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/brain-carlisle-img.webp" alt="" />
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/angle-body-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/angle-body-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/angle-body-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/angle-body-img.webp" alt="" />
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/1-eleven-gb.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/1-eleven-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/1-eleven-gb.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/1-eleven-img.webp" alt="" />
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/frame-with-photo-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/frame-with-photo-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/frame-with-photo-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/frame-with-photo-img.webp" alt="" />
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/ryderz-van-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/ryderz-van-img.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/ryderz-van-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/ryderz-van-img.webp" alt="" />
           </div>
         </div>
 
@@ -456,33 +456,33 @@
 
         <!-- Old -->
         <!-- <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/p1.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/p1.webp" alt="" />
           </div>
         </div> -->
         <!--<div class="col-lg-4 col-md-6">-->
-        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
-        <!--    <img src="images/p2.png" alt="" />-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p2-bg.webp);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
+        <!--    <img src="images/p2.webp" alt="" />-->
         <!--  </div>-->
         <!--</div>-->
         <!-- <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p3-bg.png);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">
-            <img src="images/p3.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p3-bg.webp);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">
+            <img src="images/p3.webp" alt="" />
           </div>
         </div> -->
         <!-- <div class="col-lg-4 col-md-6">
-          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p4-bg.png);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-            <img src="images/p4.png" alt="" />
+          <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p4-bg.webp);" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
+            <img src="images/p4.webp" alt="" />
           </div>
         </div> -->
         <!--<div class="col-lg-4 col-md-6">-->
-        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p5-bg.png);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
-        <!--    <img src="images/p5.png" alt="" />-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p5-bg.webp);" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">-->
+        <!--    <img src="images/p5.webp" alt="" />-->
         <!--  </div>-->
         <!--</div>-->
         <!--<div class="col-lg-4 col-md-6">-->
-        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p6-bg.png);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">-->
-        <!--    <img src="images/p6.png" alt="" />-->
+        <!--  <div class="techVerse_caseStudy_img bgOrange" style="background-image: url(images/p6-bg.webp);" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000">-->
+        <!--    <img src="images/p6.webp" alt="" />-->
         <!--  </div>-->
         <!--</div>-->
       </div>
@@ -509,64 +509,64 @@
             <div class="marquee">
               <div class="trustedPartners">
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
               </div>
 
@@ -579,64 +579,64 @@
             <div class="marquee1">
               <div class="trustedPartners">
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-blue.png" alt="" />
+                  <img src="images/t-p-blue.webp" alt="" />
                 </div>
                 <div class="trustedPartner col">
-                  <img src="images/t-p-black.png" alt="" />
+                  <img src="images/t-p-black.webp" alt="" />
                 </div>
               </div>
 

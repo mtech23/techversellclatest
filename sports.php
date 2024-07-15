@@ -18,15 +18,15 @@
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/playstore.png" alt="">
+                  <img src="images/playstore.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -43,14 +43,14 @@
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 health-care-abt1 hoverEffectSec" id="particles-js1">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
         class="techVerse_about_icon2 animation33"
-        src="images/Pill.png"
+        src="images/Pill.webp"
         alt=""
       /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
@@ -58,7 +58,7 @@
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/sports-img-111.png" class="business-devlopmentImg sports-img-1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/sports-img-111.webp" class="business-devlopmentImg sports-img-1" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -75,20 +75,20 @@
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
               <div class="techVerse_store_links" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/play-store.png" alt="">
+                  <img src="images/play-store.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -120,22 +120,22 @@
   </div>
   <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.webp" alt=""></div>
       <h4>Analytics & Reporting</h4>
       <p>Gain insights into team performance and strategic metrics to optimize game strategies and decision-making for sports teams and leagues.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.webp" alt=""></div>
       <h4>UI/UX Design</h4>
       <p>Create user-friendly interfaces that boost engagement and ease navigation, ensuring seamless experiences for athletes and staff with sports apps.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.webp" alt=""></div>
       <h4>App Development</h4>
       <p>Develop robust and designed applications for sports teams and leagues, integrating essential features for efficient management and performance.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.webp" alt=""></div>
       <h4>Testing & QA</h4>
       <p>Implement rigorous testing protocols to ensure reliability, security, and performance across sports apps, guaranteeing seamless functionality and user satisfaction.</p>
     </div>
@@ -145,14 +145,14 @@
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
           class="techVerse_about_icon2 animation33"
-          src="images/Pill.png"
+          src="images/Pill.webp"
           alt=""
         /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -164,11 +164,11 @@
             </div>
             <div class="techVerse_hero_btns re_appDev_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="">
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="">
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -192,28 +192,28 @@
           <div class="row">
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.webp" alt=""></div>
                 <h4>Business Analysis</h4>
                 <p>We conduct thorough analyses to align sports app development with organizational goals and player needs, ensuring effective solutions from inception to deployment.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.webp" alt=""></div>
                 <h4>Custom Design & Development</h4>
                 <p>Our team designs intuitive interfaces and develops robust sports solutions, leveraging advanced technologies to boost player engagement and operational efficiency.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/quality-icon.webp" alt=""></div>
                 <h4>Seamless Deployment and Maintenance</h4>
                 <p>We perform comprehensive testing to ensure that our sports apps meet the highest standards for security, performance, and regulatory compliance and provide reliable and safe user experiences.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.webp" alt=""></div>
                 <h4>Deployment and Maintenance</h4>
                 <p>We oversee smooth deployment and provide ongoing maintenance to ensure sports apps remain secure, efficient, and adaptable to evolving needs.</p>
               </div>
@@ -254,34 +254,34 @@
                 <div class="swiper mobileAppCarousel">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-1.png" alt="" />
+                      <img src="images/sports-portfolio-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-2.png" alt="" />
+                      <img src="images/sports-portfolio-2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-3.png" alt="" />
+                      <img src="images/sports-portfolio-3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-4.png" alt="" />
+                      <img src="images/sports-portfolio-4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-5.png" alt="" />
+                      <img src="images/sports-portfolio-5.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-1.png" alt="" />
+                      <img src="images/sports-portfolio-1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-2.png" alt="" />
+                      <img src="images/sports-portfolio-2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-3.png" alt="" />
+                      <img src="images/sports-portfolio-3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-4.png" alt="" />
+                      <img src="images/sports-portfolio-4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/sports-portfolio-5.png" alt="" />
+                      <img src="images/sports-portfolio-5.webp" alt="" />
                     </div>
                   </div>
                 </div>
@@ -304,14 +304,14 @@
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
       class="techVerse_about_icon2 animation33"
-      src="images/Pill.png"
+      src="images/Pill.webp"
       alt=""
     /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -338,49 +338,49 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon1.webp" alt=""></div>
                   <h4>Customized Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon2.webp" alt=""></div>
                   <h4>Improved Efficiency</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon3.webp" alt=""></div>
                   <h4>Interfaces that are easy to use</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon4.webp" alt=""></div>
                   <h4>Advanced Analytics</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon5.webp" alt=""></div>
                   <h4>Secure Data Handling</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon6.webp" alt=""></div>
                   <h4>Expertise in the Sports Industry</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon7.webp" alt=""></div>
                   <h4>Scalable Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon8.webp" alt=""></div>
                   <h4>Proven Track Record</h4>
                 </div>
               </div>

@@ -18,15 +18,15 @@
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <div class="techVerse_store_links">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/playstore.png" alt="">
+                  <img src="images/playstore.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -35,7 +35,7 @@
         <!-- <div class="col-md-6">
               <div class="inner_hero_img">
                 <img
-                    src="images/ecommerse-dev-hero.png"
+                    src="images/ecommerse-dev-hero.webp"
                     data-aos="fade-left"
                     data-aos-offset="0"
                     data-aos-duration="3000"
@@ -54,14 +54,14 @@
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
         class="techVerse_about_icon2 animation33"
-        src="images/Pill.png"
+        src="images/Pill.webp"
         alt=""
       /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent width-1600">
     <div class="container-fluid">
@@ -86,20 +86,20 @@
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
               <div class="techVerse_store_links" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/play-store.png" alt="">
+                  <img src="images/play-store.webp" alt="">
                 </a>
                 <a href="#" class="techVerse_store_link">
-                  <img src="images/app-store.png" alt="">
+                  <img src="images/app-store.webp" alt="">
                 </a>
               </div>
             </div>
@@ -131,22 +131,22 @@
   </div>
   <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.webp" alt=""></div>
       <h4>Analytics & Reporting</h4>
       <p>Unlock valuable insights in the automotive and transport industry with our analytics and reporting services. Monitor fleet performance, customer behavior, and operational efficiency to make informed decisions and drive growth.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.webp" alt=""></div>
       <h4>UI/UX Design</h4>
       <p>boost user experience with our specialized UI/UX design services for the automotive and transport sectors. We create intuitive, visually appealing interfaces that improve customer engagement and satisfaction.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.webp" alt=""></div>
       <h4>App Development</h4>
       <p>Transform your automotive and transport business with our custom app development solutions. Our apps streamline operations, boost productivity, and boost customer service, ensuring your business stays ahead of the competition.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.webp" alt=""></div>
       <h4>Testing & QA</h4>
       <p>Ensure the highest quality for your automotive and transport applications with our rigorous testing and QA services. We identify and fix issues to deliver reliable, efficient, and user-friendly solutions.</p>
     </div>
@@ -156,14 +156,14 @@
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
           class="techVerse_about_icon2 animation33"
-          src="images/Pill.png"
+          src="images/Pill.webp"
           alt=""
         /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="width-1600">
     <div class="container-fluid">
@@ -175,11 +175,11 @@
             </div>
             <div class="techVerse_hero_btns re_appDev_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="">
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="">
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -232,34 +232,34 @@
                 <div class="swiper mobileAppCarousel">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen1.png" alt="" />
+                      <img src="images/automotive-screen1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen2.png" alt="" />
+                      <img src="images/automotive-screen2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen3.png" alt="" />
+                      <img src="images/automotive-screen3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen4.png" alt="" />
+                      <img src="images/automotive-screen4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen5.png" alt="" />
+                      <img src="images/automotive-screen5.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen1.png" alt="" />
+                      <img src="images/automotive-screen1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen2.png" alt="" />
+                      <img src="images/automotive-screen2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen3.png" alt="" />
+                      <img src="images/automotive-screen3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen4.png" alt="" />
+                      <img src="images/automotive-screen4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/automotive-screen5.png" alt="" />
+                      <img src="images/automotive-screen5.webp" alt="" />
                     </div>
                   </div>
                 </div>
@@ -284,14 +284,14 @@
 <section class="techVerse_about techVerse_aboutServices2 drivingSec hoverEffectSec">
   <div class="drivingSec_innerBG"></div>
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
       class="techVerse_about_icon2 animation33"
-      src="images/Pill.png"
+      src="images/Pill.webp"
       alt=""
     /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
@@ -315,49 +315,49 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon1.webp" alt=""></div>
                   <h4>Seamless Connectivity</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon2.webp" alt=""></div>
                   <h4>Advanced Navigation</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon3.webp" alt=""></div>
                   <h4>Personalized Settings</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon4.webp" alt=""></div>
                   <h4>Real-Time Updates</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon5.webp" alt=""></div>
                   <h4>Improve Safety</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon6.webp" alt=""></div>
                   <h4>Voice Control</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon7.webp" alt=""></div>
                   <h4>Smart Diagnostics</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon8.webp" alt=""></div>
                   <h4>Effortless Maintenance</h4>
                 </div>
               </div>

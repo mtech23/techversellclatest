@@ -160,6 +160,10 @@ var swiperHero = new Swiper(".mySwiperHero", {
   speed: 600,
   //   parallax: true,
   loop: true,
+  autoplay: {
+    delay: 3500,
+    disableOnInteraction: false,
+  },
   pagination: {
     el: ".swiper-pagination",
     clickable: true,

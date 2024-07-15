@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-lg">
 
             <a class="navbar-brand techVerse_logo" href="/">
-                <img src="images/logo.png" alt="" />
+                <img src="images/logo.webp" alt="" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <!-- <span class="navbar-toggler-icon"></span> -->
@@ -64,7 +64,7 @@
                         <!-- <a class="nav-link" href="#">+(1) 23456-7890</a> -->
                         <a href="mailto:info@techversellc.com" class="nav-link">
                             <span class="icon_list_icon">
-                                <!--<img src="images/usa-flag.png" alt="" />-->
+                                <!--<img src="images/usa-flag.webp" alt="" />-->
                                 <i class="fa-solid fa-envelope"></i>
                             </span>
                             <span class="icon_list_text">info@techversellc.com</span>
@@ -463,7 +463,7 @@
                                                 <textarea class="form-control" aria-label="With textarea" placeholder="Message"></textarea>
                                             </div>
                                             <button type="button" class="btn_with_icon popUp_form_btn">
-                                                <!-- <img class="btn_with_icon_img" src="images/phone-icon.png" alt=""> -->
+                                                <!-- <img class="btn_with_icon_img" src="images/phone-icon.webp" alt=""> -->
                                                 <span class="btn_with_icon_text">Request A Quote</span>
                                             </button>
                                         </form>

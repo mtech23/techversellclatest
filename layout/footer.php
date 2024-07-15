@@ -8,7 +8,7 @@
                          <div class="col-md-4">
                              <div class="footer_about">
                                  <div class="footer_logo_img_box">
-                                     <a href="#"><img src="images/logo.png" alt="" /></a>
+                                     <a href="#"><img src="images/logo.webp" alt="" /></a>
                                  </div>
                              </div>
                              <ul class="icon_list_items footer__links footer_contactUS">
@@ -54,8 +54,8 @@
                                  <a href="#" class="social_link"><i class="fa-solid fa-star"></i></a>
                              </div>
                              <div class="footer_bbb">
-                                 <a href="#"><img src="images/b-icon.png" alt="" /></a>
-                                 <a href="#"><img src="images/start-icon.png" alt="" /></a>
+                                 <a href="#"><img src="images/b-icon.webp" alt="" /></a>
+                                 <a href="#"><img src="images/start-icon.webp" alt="" /></a>
                              </div>
                              <p class="company_wishText">A Company oF More Wish Digital</p>
                          </div>
@@ -159,7 +159,7 @@
                                  <div class="techVerse_powerdby">
                                      <a href="#">Privacy Policy</a>
                                      <a href="#">Terms & Conditions</a>
-                                     
+
                                  </div>
                              </div>
                              <div class="col-md-12">
@@ -203,12 +203,12 @@
                                      </form>
                                  </div>
                                  <div class="hero_brands">
-                                     <a href="#" class="hero_brands_img"><img src="images/dmca.png" alt="" /></a>
-                                     <a href="#" class="hero_brands_img"><img src="images/dmca-complaint.png" alt="" /></a>
-                                     <!--<a href="#" class="hero_brands_img"><img src="images/playstore.png" alt="" /></a>-->
+                                     <a href="#" class="hero_brands_img"><img src="images/dmca.webp" alt="" /></a>
+                                     <a href="#" class="hero_brands_img"><img src="images/dmca-complaint.webp" alt="" /></a>
+                                     <!--<a href="#" class="hero_brands_img"><img src="images/playstore.webp" alt="" /></a>-->
                                  </div>
                                  <div class="footer_certicate">
-                                     <img src="images/footer_certificate.png.png" alt="" />
+                                     <img src="images/footer_certificate.png.webp" alt="" />
                                  </div>
                              </div>
                          </div>
@@ -241,9 +241,6 @@
 
 
  <script>
- 
- 
- 
      //       $(document).ready(function() {
 
      //  $("#navbarDropdown").on("click", function() {

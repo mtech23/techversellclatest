@@ -1,9 +1,9 @@
 <section class="techVerse_process hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_process_icon1 animation22" src="images/peramid-left-angles.png" alt="" />
-    <img class="techVerse_process_icon2 animation11" src="images/pink-capsol.png" alt="" />
-    <img class="techVerse_process_icon3 animation33" src="images/orange-half-circle.png" alt="" />
-    <img class="techVerse_process_icon4 animation22" src="images/peramid-left-angles.png" alt="" />
+    <img class="techVerse_process_icon1 animation22" src="images/peramid-left-angles.webp" alt="" />
+    <img class="techVerse_process_icon2 animation11" src="images/pink-capsol.webp" alt="" />
+    <img class="techVerse_process_icon3 animation33" src="images/orange-half-circle.webp" alt="" />
+    <img class="techVerse_process_icon4 animation22" src="images/peramid-left-angles.webp" alt="" />
   </div>
   <div class="container-fluid">
     <div class="row">
@@ -34,37 +34,37 @@
         <div class="ani_cnt">
           <!-- 6 -->
           <div class="sixicon icc">
-            <img src="images/process-icon-6.png" alt="Innovative-approach" />
+            <img src="images/process-icon-6.webp" alt="Innovative-approach" />
             <p>Deployment</p>
           </div>
 
           <!-- 5 -->
           <div class="fiveicon icc">
-            <img src="images/process-icon-5.png" alt="Continuous-Digital-Improvement" />
+            <img src="images/process-icon-5.webp" alt="Continuous-Digital-Improvement" />
             <p>Testing & QA</p>
           </div>
 
           <!-- 4 -->
           <div class="fouricon icc">
-            <img src="images/process-icon-4.png" alt="Award-Agency" />
+            <img src="images/process-icon-4.webp" alt="Award-Agency" />
             <p>Development</p>
           </div>
 
           <!-- 3 -->
           <div class="threeicon icc">
-            <img src="images/process-icon-3.png" alt="Time-Bound-Professionals" />
+            <img src="images/process-icon-3.webp" alt="Time-Bound-Professionals" />
             <p>Wireframing and Prototyping</p>
           </div>
 
           <!-- 2 -->
           <div class="twoicon icc">
-            <img src="images/process-icon-2.png" alt="Agile-Methodology" />
+            <img src="images/process-icon-2.webp" alt="Agile-Methodology" />
             <p>Strategic Planning and Feature</p>
           </div>
 
           <!-- 1 -->
           <div class="oneicon icc">
-            <img src="images/process-icon-1.png" alt="Bespoke-Designs" />
+            <img src="images/process-icon-1.webp" alt="Bespoke-Designs" />
             <p>Idea Conceptualization and Research</p>
           </div>
 

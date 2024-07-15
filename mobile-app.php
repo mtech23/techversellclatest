@@ -9,7 +9,7 @@
         <div class="col-md-6">
           <div class="inner_hero_content">
             <h1 data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000">
-              Innovate. Develop. Dominate with 
+              Innovate. Develop. Dominate with
               <span class="color-lightBlue1">Techverse Apps!</span>
             </h1>
             <p data-aos="fade-right" data-aos-offset="0" data-aos-duration="2000">
@@ -18,11 +18,11 @@
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -30,7 +30,7 @@
         </div>
         <div class="col-md-6 inner-hero_rightCol">
           <div class="inner_hero_img">
-            <img src="images/Mobile-app-hero.png" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" class="mobileApp_hero_img" />
+            <img src="images/Mobile-app-hero.webp" data-aos="fade-left" data-aos-offset="0" data-aos-duration="3000" alt="" class="mobileApp_hero_img" />
           </div>
         </div>
       </div>
@@ -43,16 +43,16 @@
 
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
-    <div class="icon-container-hover">
-      <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-      <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
+    <!-- <img
             class="techVerse_about_icon2 animation33"
-            src="images/Pill.png"
+            src="images/Pill.webp"
             alt=""
           /> -->
-      <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-      <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600">
     <div class="container-fluid">
       <div class="row">
@@ -61,7 +61,7 @@
           <div class="techVerse_about_content services-abbout1">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Leading 
+                Leading
                 <span class="color-lightBlue2"> The</span> Charge In Rapid Mobile App Innovation
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
@@ -69,11 +69,11 @@
               </p>
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
@@ -92,23 +92,23 @@
   </div>
 </section>
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
-    <div class="icon-container-hover">
-      <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
-      <!-- <img
+  <div class="icon-container-hover">
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
+    <!-- <img
             class="techVerse_about_icon2 animation33"
-            src="images/Pill.png"
+            src="images/Pill.webp"
             alt=""
           /> -->
-      <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-      <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
-    </div>
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
+  </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices2 width-1600">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6">
           <div class="techVerse_about_img">
             <div class="techVerse_about_laptop_img">
-              <img src="images/high-end-img.png" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
+              <img src="images/high-end-img.webp" class="about-laptopImg" data-aos="fade-right" data-aos-offset="0" data-aos-duration="1000" />
             </div>
           </div>
         </div>
@@ -116,7 +116,7 @@
           <div class="techVerse_about_content services-abbout2">
             <div class="sec_title">
               <h2 class="sec_title_head color-darkBlue" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                Scalable Mobile Solutions 
+                Scalable Mobile Solutions
                 <span class="color-lightBlue2">For</span> Every Business Need.
               </h2>
               <p data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
@@ -124,11 +124,11 @@
               </p>
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>

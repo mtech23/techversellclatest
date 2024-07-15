@@ -16,68 +16,68 @@
               <div class="all_logos">
 
                 <div class="single_logo">
-                  <img src="images/tech-img-01.png" alt="">
+                  <img src="images/tech-img-01.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-02.png" alt="">
+                  <img src="images/tech-img-02.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-03.png" alt="">
-
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-04.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-05.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-06.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-07.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-08.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-01.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-02.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-03.png" alt="">
+                  <img src="images/tech-img-03.webp" alt="">
 
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-04.png" alt="">
+                  <img src="images/tech-img-04.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-05.png" alt="">
+                  <img src="images/tech-img-05.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-06.png" alt="">
+                  <img src="images/tech-img-06.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-07.png" alt="">
+                  <img src="images/tech-img-07.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-08.png" alt="">
+                  <img src="images/tech-img-08.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-01.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-02.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-03.webp" alt="">
+
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-04.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-05.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-06.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-07.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-08.webp" alt="">
                 </div>
 
 
@@ -92,48 +92,48 @@
               <div class="all_logos">
 
                 <div class="single_logo">
-                  <img src="images/tech-img-09.png" alt="">
+                  <img src="images/tech-img-09.webp" alt="">
                 </div>
                 <div class="single_logo">
-                  <img src="images/tech-img-10.png" alt="">
-                </div>
-
-                <div class="single_logo">
-                  <img src="images/tech-img-11.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-12.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-13.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-14.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-15.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-09.png" alt="">
-                </div>
-                <div class="single_logo">
-                  <img src="images/tech-img-10.png" alt="">
+                  <img src="images/tech-img-10.webp" alt="">
                 </div>
 
                 <div class="single_logo">
-                  <img src="images/tech-img-11.png" alt="">
+                  <img src="images/tech-img-11.webp" alt="">
                 </div>
                 <div class="single_logo">
-                  <img src="images/tech-img-12.png" alt="">
+                  <img src="images/tech-img-12.webp" alt="">
                 </div>
                 <div class="single_logo">
-                  <img src="images/tech-img-13.png" alt="">
+                  <img src="images/tech-img-13.webp" alt="">
                 </div>
                 <div class="single_logo">
-                  <img src="images/tech-img-14.png" alt="">
+                  <img src="images/tech-img-14.webp" alt="">
                 </div>
                 <div class="single_logo">
-                  <img src="images/tech-img-15.png" alt="">
+                  <img src="images/tech-img-15.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-09.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-10.webp" alt="">
+                </div>
+
+                <div class="single_logo">
+                  <img src="images/tech-img-11.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-12.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-13.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-14.webp" alt="">
+                </div>
+                <div class="single_logo">
+                  <img src="images/tech-img-15.webp" alt="">
                 </div>
 
 

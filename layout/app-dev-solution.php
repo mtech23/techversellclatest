@@ -13,22 +13,22 @@
   </div>
   <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.webp" alt=""></div>
       <h4>Analytics & Reporting</h4>
       <p>With our advanced analytics and reporting solutions, you can increase valued visions and make data-driven decisions. From performance metrics to user behavior analysis, we help you optimize your app's performance and achieve measurable results.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.webp" alt=""></div>
       <h4>UI/UX Design</h4>
       <p>Create unforgettable user experiences with our expert UI/UX design services. We combine aesthetic appeal with intuitive functionality to ensure your app not only looks stunning but also delights users at every touchpoint.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.webp" alt=""></div>
       <h4>App Development</h4>
       <p>From concept to deployment, our seasoned developers bring your vision to life. Whether you need a native iOS app, Android application, or cross-platform solution, we leverage cutting-edge technologies to build robust, scalable, and secure apps that meet your business objectives.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.webp" alt=""></div>
       <h4>Testing & QA</h4>
       <p>Ensure flawless performance with rigorous testing and quality assurance processes. Our meticulous testing frameworks and QA strategies guarantee that your app functions seamlessly across devices and platforms, delivering a superior user experience every time.</p>
     </div>

@@ -18,11 +18,11 @@
             <?php include('./layout/hero-social-icons.php') ?>
             <div class="techVerse_hero_btns" data-aos="fade-right" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -31,7 +31,7 @@
         <!-- <div class="col-md-6">
               <div class="inner_hero_img">
                 <img
-                    src="images/ecommerse-dev-hero.png"
+                    src="images/ecommerse-dev-hero.webp"
                     data-aos="fade-left"
                     data-aos-offset="0"
                     data-aos-duration="3000"
@@ -50,14 +50,14 @@
 <!-- About Sec -->
 <section class="techVerse_about techVerse_aboutServices1 hoverEffectSec" id="particles-js1">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
         class="techVerse_about_icon2 animation33"
-        src="images/Pill.png"
+        src="images/Pill.webp"
         alt=""
       /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="techVerse_aboutContent techVerse_aboutContentServices1 width-1600">
     <div class="container-fluid">
@@ -76,11 +76,11 @@
 
               <div class="techVerse_hero_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
                 <a href="#" class="btn_with_icon">
-                  <img class="btn_with_icon_img" src="images/phone-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Call Now</span>
                 </a>
                 <a href="#" class="btn_with_icon btn_secondary">
-                  <img class="btn_with_icon_img" src="images/chat-icon.png" alt="" />
+                  <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="" />
                   <span class="btn_with_icon_text">Chat Now</span>
                 </a>
               </div>
@@ -119,22 +119,22 @@
   </div>
   <div class="app_devBoxes" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/analysis-resport-icon.webp" alt=""></div>
       <h4>Analytics & Reporting</h4>
       <p>Gain valuable insights with our robust analytics solutions, built to track and optimize user engagement and performance metrics, ensuring informed decision-making for your business.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/ui-ix-icon.webp" alt=""></div>
       <h4>UI/UX Design</h4>
       <p>Create intuitive and captivating user experiences with our expert UI/UX design services, focusing on aesthetics and usability to boost customer satisfaction and retention.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/app-dev-icon.webp" alt=""></div>
       <h4>App Development</h4>
       <p>From concept to launch, our skilled team delivers scalable and feature-rich mobile applications that meet your business goals, ensuring seamless functionality across platforms.</p>
     </div>
     <div class="app_devBoxe">
-      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.png" alt=""></div>
+      <div class="app_devBoxeIcon"><img src="images/testing-and-qa-icon.webp" alt=""></div>
       <h4>Testing & QA</h4>
       <p>Ensure high performance and reliability with our rigorous testing and quality assurance processes. We carefully check every aspect of your application to deliver a flawless user experience.</p>
     </div>
@@ -144,14 +144,14 @@
 <!-- Real Estate App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
           class="techVerse_about_icon2 animation33"
-          src="images/Pill.png"
+          src="images/Pill.webp"
           alt=""
         /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="width-1600">
     <div class="container-fluid">
@@ -163,11 +163,11 @@
             </div>
             <div class="techVerse_hero_btns re_appDev_btns" data-aos="fade-up" data-aos-offset="0" data-aos-duration="3000">
               <a href="#" class="btn_with_icon">
-                <img class="btn_with_icon_img" src="images/phone-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/phone-icon.webp" alt="">
                 <span class="btn_with_icon_text">Call Now</span>
               </a>
               <a href="#" class="btn_with_icon btn_secondary">
-                <img class="btn_with_icon_img" src="images/chat-icon.png" alt="">
+                <img class="btn_with_icon_img" src="images/chat-icon.webp" alt="">
                 <span class="btn_with_icon_text">Chat Now</span>
               </a>
             </div>
@@ -191,28 +191,28 @@
           <div class="row">
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/business-analysis-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/business-analysis-icon.webp" alt=""></div>
                 <h4>Business Analysis</h4>
                 <p>Thoroughly analyze business requirements and user needs to define project scope and objectives, ensuring alignment with strategic goals and optimal solution planning.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="1000">
-                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/design-and-dev-icon.webp" alt=""></div>
                 <h4>Design & Development</h4>
                 <p>Craft visually appealing and functional designs while implementing robust development strategies to create customized solutions that meet client specifications and exceed expectations.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/quality-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/quality-icon.webp" alt=""></div>
                 <h4>Quality Assurance</h4>
                 <p>Conduct rigorous testing and quality checks throughout the development lifecycle to ensure high performance, reliability, and adherence to industry standards for seamless user experiences.</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="reApp_box" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2000">
-                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.png" alt=""></div>
+                <div class="reApp_box_icon"><img src="images/dev-and-maintenence-icon.webp" alt=""></div>
                 <h4>Deployment and Maintenance</h4>
                 <p>Efficiently deploy applications while providing ongoing support and maintenance services to ensure smooth operations, continuous improvements, and client satisfaction post-launch.</p>
               </div>
@@ -253,25 +253,25 @@
                 <div class="swiper mobileAppCarousel">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img1.png" alt="" />
+                      <img src="images/realEstate-portfolio-img1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img2.png" alt="" />
+                      <img src="images/realEstate-portfolio-img2.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img3.png" alt="" />
+                      <img src="images/realEstate-portfolio-img3.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img4.png" alt="" />
+                      <img src="images/realEstate-portfolio-img4.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img5.png" alt="" />
+                      <img src="images/realEstate-portfolio-img5.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img1.png" alt="" />
+                      <img src="images/realEstate-portfolio-img1.webp" alt="" />
                     </div>
                     <div class="swiper-slide">
-                      <img src="images/realEstate-portfolio-img2.png" alt="" />
+                      <img src="images/realEstate-portfolio-img2.webp" alt="" />
                     </div>
                   </div>
                 </div>
@@ -294,14 +294,14 @@
 <!-- Mobile App Dev -->
 <section class="techVerse_about techVerse_aboutServices2 mobileApp_devSec hoverEffectSec">
   <div class="icon-container-hover">
-    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.png" alt="" />
+    <img class="techVerse_about_icon1 animation11" src="images/pink-capsol.webp" alt="" />
     <!-- <img
       class="techVerse_about_icon2 animation33"
-      src="images/Pill.png"
+      src="images/Pill.webp"
       alt=""
     /> -->
-    <img class="techVerse_about_icon3 animation11" src="images/green-cube.png" alt="" />
-    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.png" alt="" />
+    <img class="techVerse_about_icon3 animation11" src="images/green-cube.webp" alt="" />
+    <img class="techVerse_about_icon4 animation11" src="images/donat-orange.webp" alt="" />
   </div>
   <div class="width-1600">
     <div class="container-fluid">
@@ -325,49 +325,49 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon1.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon1.webp" alt=""></div>
                   <h4>Specialized Expertise</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon2.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon2.webp" alt=""></div>
                   <h4>Customized Solutions</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon3.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon3.webp" alt=""></div>
                   <h4>Innovative Technology</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon4.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon4.webp" alt=""></div>
                   <h4>Intuitive Design</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon5.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon5.webp" alt=""></div>
                   <h4>Robust Performance</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon6.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon6.webp" alt=""></div>
                   <h4>Client Satisfaction</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon7.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon7.webp" alt=""></div>
                   <h4>Reliable Support</h4>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="icon_box" data-aos="fade-up" data-aos-duration="1000">
-                  <div class="box_icon"><img src="images/re-icon8.png" alt=""></div>
+                  <div class="box_icon"><img src="images/re-icon8.webp" alt=""></div>
                   <h4>Market Insight</h4>
                 </div>
               </div>
