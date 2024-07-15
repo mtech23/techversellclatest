@@ -1669,7 +1669,7 @@ canvas.particles-js-canvas-el {
   overflow: hidden;
 }
 .realEstate_hero .inner-bgColor {
-  background-image: url(../images/real-estate-hero-bg.png);
+  background-image: url(../images/real-estate-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
@@ -1710,7 +1710,7 @@ canvas.particles-js-canvas-el {
 }
 
 .case-study-hero .inner-bgColor {
-  background-image: url(../images/case-study-hero-bg.png);
+  background-image: url(../images/case-study-hero-bg.webp);
   opacity: 0.8;
   background-position: top center;
   background-size: cover;
@@ -1818,7 +1818,7 @@ canvas.particles-js-canvas-el {
 }
 .inner_hero.contactUSNew_hero {
   /*background-image: url(../images/inner-hero-bg.gif);*/
-  background-image: url(../images/contact-hero-form-bg.png);
+  background-image: url(../images/contact-hero-form-bg.webp);
 }
 /*.contactUSNew_hero .inner-bgColor {*/
 /*    background-image: url(../images/contact-hero-form-bg.png);*/
@@ -1835,49 +1835,49 @@ canvas.particles-js-canvas-el {
 }
 
 .ecommerse-hero .inner-bgColor {
-  background-image: url(../images/ecommer-hero-bg.png);
+  background-image: url(../images/ecommer-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .automotive-hero .inner-bgColor {
-  background-image: url(../images/automotive-hero-bg.png);
+  background-image: url(../images/automotive-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .eduHR-hero .inner-bgColor {
-  background-image: url(../images/edu-hr-hero-bg.png);
+  background-image: url(../images/edu-hr-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .finance-hero .inner-bgColor {
-  background-image: url(../images/finance-hero-bg.png);
+  background-image: url(../images/finance-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .media-hero .inner-bgColor {
-  background-image: url(../images/media-hero-bg.png);
+  background-image: url(../images/media-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .health-care-hero .inner-bgColor {
-  background-image: url(../images/health-care-hero-bg.png);
+  background-image: url(../images/health-care-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .sports-hero .inner-bgColor {
-  background-image: url(../images/sports-hero-bg.png);
+  background-image: url(../images/sports-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;
 }
 .travel-hero .inner-bgColor {
-  background-image: url(../images/travel-hero-bg.png);
+  background-image: url(../images/travel-hero-bg.webp);
   opacity: 0.7;
   background-position: top center;
   background-size: cover;

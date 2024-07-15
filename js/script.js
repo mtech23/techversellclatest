@@ -27,9 +27,9 @@ jQuery(document).ready(function ($) {
   });
 });
 
-$(document).ready(function () {
-  $("#popup_modal_id").modal("show");
-});
+// $(document).ready(function () {
+//   $("#popup_modal_id").modal("show");
+// });
 
 document.addEventListener("DOMContentLoaded", function () {
   function applyMouseMoveEffect(sectionClass, containerClass) {
